@@ -1,0 +1,668 @@
+1978   ||   heaven_can_wait   ||   88%   ||   68%   ||   {Romance, Sports & Fitness, Science Fiction & Fantasy, Comedy}   ||   1 hr. 41 min.
+1978   ||   the_buddy_holly_story   ||   100%   ||   77%   ||   {Musical & Performing Arts, Drama}   ||   1 hr. 53 min.
+1978   ||   the_deer_hunter   ||   93%   ||   92%   ||   {Drama, Cult Movies}   ||   3 hr. 3 min.
+1978   ||   the_boys_from_brazil   ||   70%   ||   66%   ||   {Drama, Action & Adventure, Mystery & Suspense}   ||   2 hr. 10 min.
+1956   ||   the_king_and_i   ||   96%   ||   83%   ||   {Romance, Musical & Performing Arts, Classics}   ||   2 hr. 13 min.
+1956   ||   giant   ||   95%   ||   87%   ||   {Western, Drama, Romance, Classics}   ||   3 hr. 17 min.
+1956   ||   lust_for_life   ||   100%   ||   81%   ||   {Drama, Classics}   ||   2 hr. 2 min.
+1956   ||   giant   ||   95%   ||   87%   ||   {Western, Drama, Romance, Classics}   ||   3 hr. 17 min.
+1956   ||   richard_iii   ||   80%   ||   78%   ||   {Drama, Classics}   ||   2 hr. 18 min.
+1991   ||   the_silence_of_the_lambs   ||   95%   ||   95%   ||   {Mystery & Suspense, Horror}   ||   1 hr. 58 min.
+1991   ||   bugsy   ||   85%   ||   69%   ||   {Drama}   ||   2 hr. 16 min.
+1991   ||   cape_fear   ||   76%   ||   77%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 8 min.
+1991   ||   the_prince_of_tides   ||   73%   ||   70%   ||   {Drama, Romance}   ||   2 hr. 6 min.
+1991   ||   the_fisher_king   ||   83%   ||   86%   ||   {Drama, Science Fiction & Fantasy, Comedy}   ||   2 hr. 18 min.
+2000   ||   gladiator   ||   76%   ||   87%   ||   {Drama, Action & Adventure, Classics}   ||   2 hr. 51 min.
+2000   ||   before_night_falls   ||   73%   ||   84%   ||   {Drama}   ||   2 hr. 5 min.
+2000   ||   cast_away   ||   90%   ||   83%   ||   {Drama, Action & Adventure}   ||   2 hr. 23 min.
+2000   ||   pollock   ||   81%   ||   74%   ||   {Drama}   ||   2 hr. 3 min.
+2000   ||   quills   ||   75%   ||   83%   ||   {Drama}   ||   2 hr. 4 min.
+1989   ||   my_left_foot   ||   97%   ||   92%   ||   {Art House & International, Drama}   ||   1 hr. 43 min.
+1989   ||   henry_v   ||   100%   ||   89%   ||   {Drama, Action & Adventure, Romance}   ||   2 hr. 18 min.
+1989   ||   born_on_the_fourth_of_july   ||   90%   ||   76%   ||   {Drama}   ||   2 hr. 24 min.
+1989   ||   driving_miss_daisy   ||   82%   ||   81%   ||   {Drama, Comedy}   ||   1 hr. 39 min.
+1989   ||   dead_poets_society   ||   85%   ||   92%   ||   {Drama}   ||   2 hr. 8 min.
+2005   ||   capote   ||   90%   ||   81%   ||   {Drama}   ||   1 hr. 55 min.
+2005   ||   brokeback_mountain   ||   87%   ||   82%   ||   {Drama, Romance}   ||   2 hr. 14 min.
+2005   ||   walk_the_line   ||   82%   ||   90%   ||   {Drama}   ||   1 hr. 34 min.
+2005   ||   good_night,_and_good_luck   ||   93%   ||   83%   ||   {Drama}   ||   1 hr. 30 min.
+1994   ||   forrest_gump   ||   72%   ||   95%   ||   {Drama, Romance, Comedy}   ||   2 hr. 22 min.
+1994   ||   the_shawshank_redemption   ||   91%   ||   98%   ||   {Drama}   ||   2 hr. 22 min.
+1994   ||   the_madness_of_king_george   ||   93%   ||   80%   ||   {Drama, Comedy}   ||   1 hr. 47 min.
+1994   ||   nobodys_fool   ||   91%   ||   81%   ||   {Drama, Comedy}   ||   1 hr. 50 min.
+1994   ||   pulp_fiction   ||   94%   ||   96%   ||   {Drama}   ||   2 hr. 34 min.
+1982   ||   gandhi   ||   88%   ||   92%   ||   {Drama, Classics}   ||   3 hr. 11 min.
+1982   ||   tootsie   ||   88%   ||   81%   ||   {Drama, Romance, Comedy}   ||   1 hr. 59 min.
+1982   ||   missing   ||   96%   ||   85%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 2 min.
+1982   ||   the_verdict   ||   96%   ||   88%   ||   {Drama}   ||   2 hr. 2 min.
+1982   ||   my_favorite_year   ||   100%   ||   85%   ||   {Comedy}   ||   1 hr. 32 min.
+1971   ||   the_french_connection   ||   98%   ||   87%   ||   {Drama, Action & Adventure, Classics}   ||   1 hr. 44 min.
+1971   ||   sunday_bloody_sunday   ||   92%   ||   72%   ||   {Drama}   ||   1 hr. 50 min.
+1971   ||   kotch   ||   67%   ||   69%   ||   {Drama, Classics, Comedy}   ||   1 hr. 53 min.
+1971   ||   the_hospital   ||   100%   ||   73%   ||   {Drama, Classics, Comedy}   ||   1 hr. 43 min.
+1971   ||   fiddler_on_the_roof   ||   81%   ||   92%   ||   {Drama, Kids & Family, Musical & Performing Arts, Classics, Comedy}   ||   2 hr. 59 min.
+2007   ||   there_will_be_blood   ||   91%   ||   86%   ||   {Drama}   ||   2 hr. 38 min.
+2007   ||   michael_clayton   ||   90%   ||   69%   ||   {Mystery & Suspense, Drama}   ||   1 hr. 59 min.
+2007   ||   sweeney_todd:_the_demon_barber_of_fleet_street   ||   86%   ||   81%   ||   {Drama, Musical & Performing Arts, Mystery & Suspense}   ||   1 hr. 56 min.
+2007   ||   in_the_valley_of_elah   ||   73%   ||   77%   ||   {Drama}   ||   2 hr. 1 min.
+2007   ||   eastern_promises   ||   89%   ||   83%   ||   {Mystery & Suspense, Drama}   ||   1 hr. 41 min.
+2003   ||   mystic_river   ||   87%   ||   89%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 17 min.
+2003   ||   pirates_of_the_caribbean:_the_curse_of_the_black_pearl   ||   79%   ||   86%   ||   {Action & Adventure, Science Fiction & Fantasy}   ||   2 hr. 23 min.
+2003   ||   house_of_sand_and_fog   ||   75%   ||   83%   ||   {Drama}   ||   2 hr. 6 min.
+2003   ||   cold_mountain   ||   71%   ||   77%   ||   {Drama, Action & Adventure, Romance}   ||   2 hr. 34 min.
+2003   ||   lost_in_translation   ||   95%   ||   86%   ||   {Drama, Romance, Comedy}   ||   1 hr. 42 min.
+1960   ||   elmer_gantry   ||   96%   ||   86%   ||   {Drama, Classics}   ||   2 hr. 26 min.
+1960   ||   sons_and_lovers   ||   71%   ||   56%   ||   {Drama, Classics}   ||   1 hr. 43 min.
+1960   ||   the_apartment   ||   93%   ||   94%   ||   {Drama, Romance, Classics, Comedy}   ||   2 hr. 5 min.
+1960   ||   the_entertainer   ||   89%   ||   74%   ||   {Drama, Musical & Performing Arts, Art House & International, Classics}   ||   1 hr. 37 min.
+1960   ||   inherit_the_wind   ||   91%   ||   91%   ||   {Drama, Faith & Spirituality, Classics}   ||   2 hr. 8 min.
+1999   ||   american_beauty   ||   88%   ||   93%   ||   {Drama, Comedy}   ||   2 hr. 2 min.
+1999   ||   the_insider   ||   96%   ||   90%   ||   {Drama}   ||   2 hr. 37 min.
+1999   ||   the_straight_story   ||   96%   ||   91%   ||   {Drama, Action & Adventure, Kids & Family}   ||   1 hr. 51 min.
+1999   ||   sweet_and_lowdown   ||   78%   ||   81%   ||   {Drama, Musical & Performing Arts, Art House & International, Comedy}   ||   1 hr. 35 min.
+1999   ||   the_hurricane   ||   83%   ||   87%   ||   {Drama, Sports & Fitness, Mystery & Suspense}   ||   2 hr. 26 min.
+1966   ||   a_man_for_all_seasons   ||   82%   ||   87%   ||   {Drama, Classics}   ||   2 hr. 1 min.
+1966   ||   the_russians_are_coming,_the_russians_are_coming   ||   84%   ||   75%   ||   {Drama, Classics, Comedy}   ||   2 hr. 6 min.
+1966   ||   alfie   ||   100%   ||   76%   ||   {Drama, Romance, Classics, Comedy}   ||   1 hr. 53 min.
+1966   ||   the_sand_pebbles   ||   88%   ||   88%   ||   {Drama, Action & Adventure, Romance, Classics}   ||   2 hr. 59 min.
+1990   ||   reversal_of_fortune   ||   94%   ||   76%   ||   {Mystery & Suspense, Drama}   ||   1 hr. 49 min.
+1990   ||   dances_with_wolves   ||   82%   ||   87%   ||   {Western, Drama, Action & Adventure}   ||   3 hr. 1 min.
+1990   ||   awakenings   ||   88%   ||   89%   ||   {Drama}   ||   2 hr.
+1990   ||   cyrano_de_bergerac   ||   100%   ||   91%   ||   {Drama, Romance, Art House & International, Comedy}   ||   2 hr. 15 min.
+1990   ||   the_field   ||   43%   ||   81%   ||   {Art House & International, Drama}   ||   1 hr. 53 min.
+2014   ||   the_theory_of_everything   ||   79%   ||   84%   ||   {Drama}   ||   2 hr. 3 min.
+2014   ||   foxcatcher   ||   89%   ||   66%   ||   {Drama}   ||   2 hr. 10 min.
+2014   ||   american_sniper   ||   72%   ||   85%   ||   {Drama, Action & Adventure}   ||   2 hr. 14 min.
+2014   ||   the_imitation_game   ||   90%   ||   92%   ||   {Mystery & Suspense, Drama}   ||   1 hr. 54 min.
+2014   ||   birdman   ||   91%   ||   77%   ||   {Drama, Comedy}   ||   1 hr. 59 min.
+2001   ||   training_day   ||   72%   ||   89%   ||   {Drama, Action & Adventure, Mystery & Suspense}   ||   2 hr. 2 min.
+2001   ||   a_beautiful_mind   ||   75%   ||   93%   ||   {Drama}   ||   2 hr. 15 min.
+2001   ||   i_am_sam   ||   34%   ||   87%   ||   {Drama}   ||   2 hr. 12 min.
+2001   ||   in_the_bedroom   ||   93%   ||   81%   ||   {Art House & International, Drama}   ||   2 hr. 11 min.
+1957   ||   the_bridge_on_the_river_kwai   ||   94%   ||   93%   ||   {Drama, Action & Adventure, Classics}   ||   2 hr. 41 min.
+1957   ||   sayonara   ||   100%   ||   79%   ||   {Drama, Romance, Classics}   ||   2 hr. 27 min.
+1957   ||   a_hatful_of_rain   ||   none   ||   76%   ||   {Drama, Classics}   ||   1 hr. 49 min.
+1957   ||   witness_for_the_prosecution   ||   100%   ||   95%   ||   {Drama, Mystery & Suspense, Classics}   ||   1 hr. 56 min.
+1957   ||   wild_is_the_wind   ||   none   ||   70%   ||   {Drama, Classics}   ||   1 hr. 54 min.
+2008   ||   milk   ||   94%   ||   89%   ||   {Drama, Gay & Lesbian}   ||   2 hr. 8 min.
+2008   ||   the_visitor   ||   89%   ||   84%   ||   {Drama}   ||   1 hr. 44 min.
+2008   ||   frost_nixon   ||   92%   ||   88%   ||   {Drama}   ||   2 hr. 3 min.
+2008   ||   the_curious_case_of_benjamin_button   ||   72%   ||   80%   ||   {Drama, Romance, Science Fiction & Fantasy}   ||   2 hr. 46 min.
+2008   ||   the_wrestler   ||   98%   ||   88%   ||   {Drama}   ||   1 hr. 49 min.
+1985   ||   kiss_of_the_spider_woman   ||   88%   ||   81%   ||   {Art House & International, Drama}   ||   1 hr. 59 min.
+1985   ||   witness   ||   92%   ||   80%   ||   {Drama, Romance, Mystery & Suspense}   ||   1 hr. 52 min.
+1985   ||   murphys_romance   ||   70%   ||   74%   ||   {Drama, Romance, Comedy}   ||   1 hr. 48 min.
+1985   ||   prizzis_honor   ||   88%   ||   62%   ||   {Drama, Romance, Comedy}   ||   2 hr. 10 min.
+1985   ||   runaway_train   ||   87%   ||   77%   ||   {Drama, Action & Adventure}   ||   1 hr. 50 min.
+1974   ||   harry_and_tonto   ||   88%   ||   82%   ||   {Drama, Classics, Comedy}   ||   1 hr. 55 min.
+1974   ||   murder_on_the_orient_express   ||   95%   ||   79%   ||   {Mystery & Suspense}   ||   2 hr. 8 min.
+1974   ||   lenny   ||   100%   ||   88%   ||   {Drama, Classics}   ||   1 hr. 51 min.
+1974   ||   chinatown   ||   98%   ||   93%   ||   {Drama, Mystery & Suspense, Classics}   ||   2 hr. 10 min.
+1975   ||   one_flew_over_the_cuckoos_nest   ||   95%   ||   96%   ||   {Drama, Classics, Comedy}   ||   2 hr. 14 min.
+1975   ||   the_sunshine_boys   ||   81%   ||   73%   ||   {Drama, Classics, Comedy}   ||   1 hr. 51 min.
+1975   ||   dog_day_afternoon   ||   95%   ||   90%   ||   {Drama, Classics}   ||   2 hr. 30 min.
+1975   ||   the_man_in_the_glass_booth   ||   none   ||   82%   ||   {Drama, Classics}   ||   1 hr. 57 min.
+1975   ||   give_em_hell,_harry!   ||   100%   ||   82%   ||   {Drama, Comedy}   ||   1 hr. 42 min.
+2013   ||   dallas_buyers_club   ||   94%   ||   91%   ||   {Drama}   ||   1 hr. 57 min.
+2013   ||   american_hustle   ||   93%   ||   74%   ||   {Drama}   ||   2 hr. 9 min.
+2013   ||   nebraska   ||   91%   ||   83%   ||   {Drama}   ||   1 hr. 55 min.
+2013   ||   the_wolf_of_wall_street   ||   77%   ||   82%   ||   {Drama}   ||   2 hr. 59 min.
+2013   ||   12_years_a_slave   ||   96%   ||   90%   ||   {Drama}   ||   2 hr. 14 min.
+1973   ||   save_the_tiger   ||   91%   ||   74%   ||   {Drama, Classics}   ||   1 hr. 39 min.
+1973   ||   last_tango_in_paris   ||   81%   ||   76%   ||   {Drama, Romance, Art House & International}   ||   2 hr. 10 min.
+1973   ||   the_last_detail   ||   93%   ||   87%   ||   {Drama, Classics, Comedy}   ||   1 hr. 44 min.
+1973   ||   serpico   ||   90%   ||   88%   ||   {Drama, Mystery & Suspense, Classics}   ||   2 hr. 9 min.
+1973   ||   the_sting   ||   93%   ||   95%   ||   {Drama, Classics, Comedy}   ||   2 hr. 9 min.
+1970   ||   patton   ||   95%   ||   94%   ||   {Drama, Classics}   ||   2 hr. 50 min.
+1970   ||   i_never_sang_for_my_father   ||   100%   ||   81%   ||   {Drama}   ||   1 hr. 32 min.
+1970   ||   the_great_white_hope   ||   43%   ||   66%   ||   {Drama, Classics}   ||   1 hr. 43 min.
+1970   ||   five_easy_pieces   ||   86%   ||   85%   ||   {Drama, Musical & Performing Arts, Classics}   ||   1 hr. 38 min.
+1970   ||   love_story   ||   57%   ||   76%   ||   {Drama, Romance}   ||   1 hr. 40 min.
+1983   ||   tender_mercies   ||   85%   ||   82%   ||   {Drama}   ||   1 hr. 29 min.
+1983   ||   educating_rita   ||   85%   ||   81%   ||   {Drama, Romance, Art House & International, Comedy}   ||   1 hr. 50 min.
+1983   ||   reuben,_reuben   ||   100%   ||   81%   ||   {Comedy}   ||   1 hr. 41 min.
+1983   ||   the_dresser   ||   100%   ||   88%   ||   {Art House & International, Drama}   ||   1 hr. 58 min.
+1983   ||   the_dresser   ||   100%   ||   88%   ||   {Art House & International, Drama}   ||   1 hr. 58 min.
+1965   ||   cat_ballou   ||   100%   ||   75%   ||   {Western, Musical & Performing Arts, Classics, Comedy}   ||   1 hr. 37 min.
+1965   ||   the_spy_who_came_in_from_the_cold   ||   85%   ||   82%   ||   {Drama, Action & Adventure, Mystery & Suspense, Classics}   ||   1 hr. 52 min.
+1965   ||   othello   ||   80%   ||   65%   ||   {Drama, Romance, Musical & Performing Arts, Classics}   ||   2 hr. 14 min.
+1965   ||   the_pawnbroker   ||   100%   ||   89%   ||   {Drama, Classics}   ||   1 hr. 56 min.
+1965   ||   ship_of_fools   ||   81%   ||   80%   ||   {Documentary, Drama, Romance, Classics}   ||   52 min.
+1972   ||   the_godfather   ||   99%   ||   98%   ||   {Drama}   ||   2 hr. 55 min.
+1972   ||   sleuth   ||   96%   ||   90%   ||   {Horror, Art House & International, Mystery & Suspense, Classics, Cult Movies}   ||   2 hr. 18 min.
+1972   ||   sleuth   ||   96%   ||   90%   ||   {Horror, Art House & International, Mystery & Suspense, Classics, Cult Movies}   ||   2 hr. 18 min.
+1972   ||   the_ruling_class   ||   82%   ||   86%   ||   {Musical & Performing Arts, Art House & International, Classics, Comedy}   ||   2 hr. 34 min.
+1972   ||   sounder   ||   88%   ||   77%   ||   {Drama, Kids & Family, Classics}   ||   1 hr. 45 min.
+1968   ||   charly   ||   71%   ||   61%   ||   {Drama, Classics, Science Fiction & Fantasy}   ||   1 hr. 55 min.
+1968   ||   the_heart_is_a_lonely_hunter   ||   100%   ||   86%   ||   {Drama, Classics}   ||   2 hr. 3 min.
+1968   ||   the_fixer   ||   71%   ||   54%   ||   {Drama}   ||   2 hr. 12 min.
+1968   ||   oliver!   ||   81%   ||   81%   ||   {Drama, Kids & Family, Musical & Performing Arts, Classics, Comedy}   ||   2 hr. 33 min.
+1968   ||   the_lion_in_winter   ||   90%   ||   90%   ||   {Drama, Classics}   ||   2 hr. 14 min.
+1981   ||   on_golden_pond   ||   92%   ||   87%   ||   {Drama}   ||   1 hr. 49 min.
+1981   ||   reds   ||   94%   ||   82%   ||   {Drama, Romance, Classics}   ||   3 hr. 15 min.
+1981   ||   atlantic_city   ||   100%   ||   78%   ||   {Drama, Romance, Art House & International}   ||   1 hr. 43 min.
+1981   ||   arthur   ||   90%   ||   77%   ||   {Comedy, Romance}   ||   1 hr. 39 min.
+1981   ||   absence_of_malice   ||   86%   ||   61%   ||   {Drama, Romance, Mystery & Suspense}   ||   1 hr. 56 min.
+1977   ||   the_goodbye_girl   ||   88%   ||   84%   ||   {Comedy, Romance}   ||   1 hr. 50 min.
+1977   ||   annie_hall   ||   98%   ||   93%   ||   {Comedy, Romance}   ||   1 hr. 33 min.
+1977   ||   equus   ||   71%   ||   78%   ||   {Drama, Horror, Mystery & Suspense}   ||   2 hr. 17 min.
+1977   ||   saturday_night_fever   ||   88%   ||   71%   ||   {Drama, Musical & Performing Arts, Classics}   ||   2 hr. 2 min.
+1997   ||   as_good_as_it_gets   ||   86%   ||   87%   ||   {Drama, Romance, Comedy}   ||   2 hr. 19 min.
+1997   ||   good_will_hunting   ||   97%   ||   94%   ||   {Drama}   ||   2 hr. 6 min.
+1997   ||   the_apostle   ||   91%   ||   78%   ||   {Drama}   ||   2 hr. 14 min.
+1997   ||   ulees_gold   ||   94%   ||   74%   ||   {Drama}   ||   1 hr. 51 min.
+1997   ||   wag_the_dog   ||   85%   ||   76%   ||   {Comedy}   ||   1 hr. 37 min.
+1949   ||   all_the_kings_men   ||   97%   ||   77%   ||   {Drama, Classics}   ||   1 hr. 49 min.
+1949   ||   champion   ||   92%   ||   73%   ||   {Drama, Classics}   ||   1 hr. 39 min.
+1949   ||   twelve_oclock_high   ||   96%   ||   87%   ||   {Drama, Action & Adventure, Classics}   ||   2 hr. 12 min.
+1949   ||   the_hasty_heart   ||   none   ||   71%   ||   {Drama, Classics}   ||   1 hr. 39 min.
+1949   ||   sands_of_iwo_jima   ||   100%   ||   80%   ||   {Drama, Action & Adventure, Classics}   ||   1 hr. 49 min.
+2011   ||   the_artist   ||   97%   ||   87%   ||   {Drama, Romance, Comedy}   ||   1 hr. 40 min.
+2011   ||   a_better_life   ||   85%   ||   79%   ||   {Drama}   ||   1 hr. 38 min.
+2011   ||   the_descendants   ||   89%   ||   79%   ||   {Drama, Comedy}   ||   1 hr. 55 min.
+2011   ||   tinker_tailor_soldier_spy   ||   83%   ||   65%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 8 min.
+2011   ||   moneyball   ||   94%   ||   86%   ||   {Drama}   ||   2 hr. 13 min.
+1948   ||   johnny_belinda   ||   88%   ||   88%   ||   {Drama, Classics}   ||   1 hr. 43 min.
+1948   ||   the_search   ||   100%   ||   91%   ||   {Drama, Art House & International, Classics}   ||   1 hr. 44 min.
+1948   ||   when_my_baby_smiles_at_me   ||   none   ||   33%   ||   {Drama, Musical & Performing Arts, Classics}   ||   1 hr. 38 min.
+1948   ||   sitting_pretty   ||   none   ||   79%   ||   {Comedy}   ||   1 hr. 24 min.
+1950   ||   cyrano_de_bergerac   ||   83%   ||   82%   ||   {Drama, Romance, Classics}   ||   1 hr. 52 min.
+1950   ||   the_magnificent_yankee   ||   none   ||   53%   ||   {Drama, Classics}   ||   8 hr. 30 min.
+1950   ||   sunset_boulevard   ||   98%   ||   95%   ||   {Drama, Classics}   ||   1 hr. 51 min.
+1950   ||   harvey   ||   84%   ||   93%   ||   {Drama, Classics, Science Fiction & Fantasy, Comedy}   ||   1 hr. 44 min.
+1950   ||   father_of_the_bride   ||   93%   ||   74%   ||   {Drama, Classics, Comedy}   ||   1 hr. 33 min.
+1979   ||   kramer_vs._kramer   ||   88%   ||   89%   ||   {Drama}   ||   1 hr. 45 min.
+1979   ||   the_china_syndrome   ||   83%   ||   81%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 2 min.
+1979   ||   ...and_justice_for_all   ||   81%   ||   80%   ||   {Drama, Mystery & Suspense, Comedy}   ||   1 hr. 59 min.
+1979   ||   all_that_jazz   ||   85%   ||   86%   ||   {Drama, Musical & Performing Arts, Science Fiction & Fantasy}   ||   2 hr. 3 min.
+1979   ||   being_there   ||   96%   ||   92%   ||   {Drama, Comedy}   ||   2 hr. 10 min.
+1980   ||   raging_bull   ||   97%   ||   93%   ||   {Drama}   ||   2 hr. 8 min.
+1980   ||   the_great_santini   ||   94%   ||   77%   ||   {Drama}   ||   1 hr. 46 min.
+1980   ||   the_elephant_man   ||   90%   ||   93%   ||   {Drama}   ||   2 hr. 3 min.
+1980   ||   the_stunt_man   ||   89%   ||   75%   ||   {Drama, Action & Adventure, Romance, Comedy}   ||   2 hr. 15 min.
+1947   ||   a_double_life   ||   71%   ||   70%   ||   {Drama, Mystery & Suspense, Classics}   ||   1 hr. 43 min.
+1947   ||   body_and_soul   ||   100%   ||   89%   ||   {Drama, Classics}   ||   1 hr. 44 min.
+1947   ||   gentlemans_agreement   ||   78%   ||   77%   ||   {Drama, Romance, Classics}   ||   1 hr. 58 min.
+1947   ||   life_with_father   ||   91%   ||   78%   ||   {Classics, Comedy}   ||   1 hr. 58 min.
+1947   ||   mourning_becomes_electra   ||   none   ||   48%   ||   {Drama, Classics}   ||   2 hr. 37 min.
+1967   ||   in_the_heat_of_the_night   ||   95%   ||   92%   ||   {Drama, Mystery & Suspense, Classics}   ||   1 hr. 49 min.
+1967   ||   bonnie_and_clyde   ||   90%   ||   88%   ||   {Drama, Action & Adventure, Classics}   ||   1 hr. 51 min.
+1967   ||   the_graduate   ||   89%   ||   90%   ||   {Drama, Romance, Classics, Comedy}   ||   1 hr. 46 min.
+1967   ||   cool_hand_luke   ||   100%   ||   95%   ||   {Drama, Classics, Comedy}   ||   2 hr. 6 min.
+1967   ||   guess_whos_coming_to_dinner   ||   68%   ||   85%   ||   {Drama, Romance, Classics, Comedy}   ||   1 hr. 48 min.
+1951   ||   the_african_queen   ||   100%   ||   86%   ||   {Drama, Action & Adventure, Romance, Classics}   ||   1 hr. 45 min.
+1951   ||   a_streetcar_named_desire   ||   98%   ||   90%   ||   {Drama, Classics}   ||   2 hr. 2 min.
+1951   ||   a_place_in_the_sun   ||   75%   ||   84%   ||   {Drama, Romance, Classics}   ||   2 hr. 2 min.
+1951   ||   bright_victory   ||   none   ||   88%   ||   {Drama, Romance, Classics}   ||   1 hr. 36 min.
+1951   ||   death_of_a_salesman   ||   none   ||   77%   ||   {Drama, Classics}   ||   1 hr. 55 min.
+2010   ||   the_kings_speech   ||   95%   ||   92%   ||   {Drama}   ||   1 hr. 58 min.
+2010   ||   biutiful   ||   64%   ||   74%   ||   {Art House & International, Drama}   ||   2 hr. 28 min.
+2010   ||   true_grit   ||   96%   ||   85%   ||   {Western, Drama, Action & Adventure}   ||   1 hr. 50 min.
+2010   ||   the_social_network   ||   96%   ||   86%   ||   {Drama}   ||   2 hr.
+2010   ||   127_hours   ||   93%   ||   85%   ||   {Drama}   ||   1 hr. 34 min.
+1955   ||   marty   ||   100%   ||   88%   ||   {Drama, Romance, Classics}   ||   1 hr. 30 min.
+1955   ||   love_me_or_leave_me   ||   67%   ||   76%   ||   {Drama, Romance, Musical & Performing Arts, Classics}   ||   2 hr. 2 min.
+1955   ||   east_of_eden   ||   88%   ||   90%   ||   {Drama, Classics}   ||   1 hr. 55 min.
+1955   ||   the_man_with_the_golden_arm   ||   86%   ||   84%   ||   {Drama}   ||   1 hr. 59 min.
+1955   ||   bad_day_at_black_rock   ||   97%   ||   88%   ||   {Drama, Mystery & Suspense, Classics}   ||   1 hr. 22 min.
+2006   ||   the_last_king_of_scotland   ||   87%   ||   89%   ||   {Drama}   ||   2 hr. 3 min.
+2006   ||   blood_diamond   ||   62%   ||   90%   ||   {Drama, Action & Adventure, Mystery & Suspense}   ||   2 hr. 23 min.
+2006   ||   half_nelson   ||   90%   ||   83%   ||   {Drama}   ||   1 hr. 27 min.
+2006   ||   venus   ||   89%   ||   74%   ||   {Drama, Romance, Comedy}   ||   1 hr. 35 min.
+2006   ||   the_pursuit_of_happyness   ||   67%   ||   87%   ||   {Drama}   ||   1 hr. 57 min.
+2012   ||   lincoln   ||   90%   ||   81%   ||   {Drama}   ||   2 hr. 29 min.
+2012   ||   silver_linings_playbook   ||   92%   ||   86%   ||   {Comedy}   ||   2 hr. 2 min.
+2012   ||   the_master   ||   85%   ||   61%   ||   {Drama}   ||   2 hr. 18 min.
+2012   ||   flight   ||   77%   ||   75%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 18 min.
+1958   ||   separate_tables   ||   77%   ||   77%   ||   {Drama, Classics}   ||   1 hr. 40 min.
+1958   ||   the_defiant_ones   ||   81%   ||   88%   ||   {Drama, Classics}   ||   1 hr. 37 min.
+1958   ||   cat_on_a_hot_tin_roof   ||   97%   ||   93%   ||   {Drama, Classics}   ||   1 hr. 48 min.
+1958   ||   the_defiant_ones   ||   81%   ||   88%   ||   {Drama, Classics}   ||   1 hr. 37 min.
+1958   ||   the_old_man_and_the_sea   ||   88%   ||   68%   ||   {Drama, Action & Adventure, Classics}   ||   1 hr. 26 min.
+1988   ||   rain_man   ||   90%   ||   90%   ||   {Drama}   ||   2 hr. 13 min.
+1988   ||   mississippi_burning   ||   89%   ||   90%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 7 min.
+1988   ||   stand_and_deliver   ||   73%   ||   79%   ||   {Drama}   ||   1 hr. 39 min.
+1988   ||   pelle_the_conqueror   ||   100%   ||   89%   ||   {Art House & International, Drama}   ||   2 hr. 40 min.
+1946   ||   the_best_years_of_our_lives   ||   98%   ||   92%   ||   {Drama, Romance, Classics}   ||   2 hr. 50 min.
+1946   ||   the_jolson_story   ||   none   ||   79%   ||   {Drama, Musical & Performing Arts, Classics, Special Interest}   ||   2 hr. 8 min.
+1946   ||   the_yearling   ||   100%   ||   74%   ||   {Classics, Kids & Family}   ||   2 hr. 8 min.
+1946   ||   its_a_wonderful_life   ||   94%   ||   95%   ||   {Drama, Kids & Family, Classics, Science Fiction & Fantasy, Comedy}   ||   2 hr. 15 min.
+1993   ||   philadelphia   ||   78%   ||   89%   ||   {Drama}   ||   2 hr. 5 min.
+1993   ||   in_the_name_of_the_father   ||   94%   ||   95%   ||   {Drama}   ||   2 hr. 13 min.
+1993   ||   whats_love_got_to_do_with_it   ||   96%   ||   88%   ||   {Musical & Performing Arts, Drama}   ||   1 hr. 58 min.
+1993   ||   the_remains_of_the_day   ||   97%   ||   90%   ||   {Drama, Romance}   ||   2 hr. 14 min.
+1993   ||   schindlers_list   ||   96%   ||   97%   ||   {Drama}   ||   3 hr. 16 min.
+2004   ||   ray   ||   81%   ||   87%   ||   {Drama}   ||   2 hr. 28 min.
+2004   ||   hotel_rwanda   ||   90%   ||   94%   ||   {Drama}   ||   2 hr. 1 min.
+2004   ||   finding_neverland   ||   83%   ||   87%   ||   {Drama}   ||   1 hr. 41 min.
+2004   ||   the_aviator   ||   87%   ||   79%   ||   {Drama}   ||   2 hr. 50 min.
+2004   ||   million_dollar_baby   ||   91%   ||   90%   ||   {Drama, Romance}   ||   2 hr. 13 min.
+2002   ||   the_pianist   ||   96%   ||   95%   ||   {Drama}   ||   2 hr. 28 min.
+2002   ||   adaptation   ||   91%   ||   85%   ||   {Drama, Comedy}   ||   1 hr. 54 min.
+2002   ||   the_quiet_american   ||   87%   ||   73%   ||   {Drama, Romance, Mystery & Suspense}   ||   1 hr. 58 min.
+2002   ||   gangs_of_new_york   ||   75%   ||   81%   ||   {Drama, Classics}   ||   2 hr. 46 min.
+2002   ||   about_schmidt   ||   85%   ||   74%   ||   {Drama, Comedy}   ||   2 hr. 4 min.
+1976   ||   network   ||   91%   ||   93%   ||   {Drama, Comedy}   ||   2 hr. 1 min.
+1976   ||   taxi_driver   ||   99%   ||   93%   ||   {Mystery & Suspense, Drama}   ||   1 hr. 52 min.
+1976   ||   seven_beauties   ||   91%   ||   90%   ||   {Drama, Art House & International, Comedy}   ||   1 hr. 55 min.
+1976   ||   network   ||   91%   ||   93%   ||   {Drama, Comedy}   ||   2 hr. 1 min.
+1976   ||   rocky   ||   93%   ||   69%   ||   {Sports & Fitness, Drama}   ||   1 hr. 59 min.
+1961   ||   judgment_at_nuremberg   ||   90%   ||   93%   ||   {Drama, Classics}   ||   2 hr. 58 min.
+1961   ||   fanny   ||   100%   ||   73%   ||   {Drama, Romance, Classics}   ||   2 hr. 15 min.
+1961   ||   the_hustler   ||   98%   ||   93%   ||   {Drama, Romance}   ||   2 hr. 14 min.
+1961   ||   judgment_at_nuremberg   ||   90%   ||   93%   ||   {Drama, Classics}   ||   2 hr. 58 min.
+1961   ||   the_mark   ||   none   ||   78%   ||   {Drama, Art House & International, Mystery & Suspense, Classics}   ||   2 hr. 7 min.
+1998   ||   saving_private_ryan   ||   92%   ||   95%   ||   {Drama, Action & Adventure}   ||   2 hr. 49 min.
+1998   ||   gods_and_monsters   ||   95%   ||   83%   ||   {Drama}   ||   2 hr.
+1998   ||   affliction   ||   87%   ||   72%   ||   {Mystery & Suspense, Drama}   ||   1 hr. 54 min.
+1998   ||   american_history_x   ||   83%   ||   96%   ||   {Drama}   ||   1 hr. 58 min.
+1945   ||   the_lost_weekend   ||   100%   ||   89%   ||   {Drama, Romance, Classics}   ||   1 hr. 40 min.
+1945   ||   the_bells_of_st._marys   ||   94%   ||   77%   ||   {Drama, Kids & Family, Classics, Comedy}   ||   2 hr. 6 min.
+1945   ||   anchors_aweigh   ||   62%   ||   80%   ||   {Romance, Musical & Performing Arts, Classics, Comedy}   ||   2 hr. 19 min.
+1945   ||   the_keys_of_the_kingdom   ||   none   ||   86%   ||   {Drama, Faith & Spirituality, Classics}   ||   2 hr. 17 min.
+1945   ||   a_song_to_remember   ||   none   ||   58%   ||   {Drama, Musical & Performing Arts, Classics}   ||   1 hr. 53 min.
+1963   ||   lilies_of_the_field   ||   100%   ||   86%   ||   {Drama, Classics, Comedy}   ||   1 hr. 34 min.
+1963   ||   tom_jones   ||   83%   ||   59%   ||   {Action & Adventure, Romance, Classics, Comedy}   ||   2 hr. 9 min.
+1963   ||   this_sporting_life   ||   100%   ||   87%   ||   {Drama, Classics}   ||   2 hr. 14 min.
+1963   ||   cleopatra   ||   55%   ||   70%   ||   {Drama, Classics}   ||   4 hr. 6 min.
+1963   ||   hud   ||   80%   ||   89%   ||   {Drama, Classics}   ||   1 hr. 48 min.
+1959   ||   ben-hur   ||   88%   ||   89%   ||   {Drama, Action & Adventure, Kids & Family, Romance, Classics}   ||   3 hr. 42 min.
+1959   ||   room_at_the_top   ||   100%   ||   83%   ||   {Drama, Romance, Classics}   ||   1 hr. 58 min.
+1959   ||   some_like_it_hot   ||   96%   ||   94%   ||   {Drama, Musical & Performing Arts, Classics, Comedy}   ||   2 hr.
+1959   ||   the_last_angry_man   ||   none   ||   50%   ||   {Drama}   ||   1 hr. 40 min.
+1959   ||   anatomy_of_a_murder   ||   100%   ||   91%   ||   {Drama, Mystery & Suspense, Classics}   ||   2 hr. 40 min.
+1952   ||   high_noon   ||   96%   ||   89%   ||   {Western, Mystery & Suspense}   ||   1 hr. 25 min.
+1952   ||   viva_zapata!   ||   65%   ||   78%   ||   {Western, Drama, Classics}   ||   1 hr. 53 min.
+1952   ||   the_bad_and_the_beautiful   ||   96%   ||   85%   ||   {Drama, Romance, Classics}   ||   1 hr. 58 min.
+1952   ||   moulin_rouge   ||   75%   ||   90%   ||   {Drama, Musical & Performing Arts, Classics}   ||   1 hr. 59 min.
+1952   ||   the_lavender_hill_mob   ||   100%   ||   87%   ||   {Drama, Classics, Comedy}   ||   1 hr. 18 min.
+1969   ||   true_grit   ||   90%   ||   84%   ||   {Western, Classics}   ||   2 hr. 8 min.
+1969   ||   anne_of_the_thousand_days   ||   42%   ||   83%   ||   {Drama, Classics}   ||   2 hr. 25 min.
+1969   ||   midnight_cowboy   ||   90%   ||   88%   ||   {Drama, Classics}   ||   1 hr. 53 min.
+1969   ||   goodbye,_mr._chips   ||   100%   ||   72%   ||   {Drama, Romance, Musical & Performing Arts}   ||   2 hr. 31 min.
+1969   ||   midnight_cowboy   ||   90%   ||   88%   ||   {Drama, Classics}   ||   1 hr. 53 min.
+1962   ||   to_kill_a_mockingbird   ||   91%   ||   93%   ||   {Drama, Classics}   ||   2 hr. 10 min.
+1962   ||   birdman_of_alcatraz   ||   82%   ||   84%   ||   {Drama, Mystery & Suspense, Classics}   ||   2 hr. 23 min.
+1962   ||   days_of_wine_and_roses   ||   100%   ||   88%   ||   {Drama, Classics}   ||   2 hr. 18 min.
+1962   ||   divorce_italian_style   ||   100%   ||   93%   ||   {Art House & International, Comedy}   ||   1 hr. 44 min.
+1962   ||   lawrence_of_arabia   ||   97%   ||   93%   ||   {Drama, Action & Adventure, Classics}   ||   1 hr. 51 min.
+1986   ||   the_color_of_money   ||   90%   ||   73%   ||   {Sports & Fitness, Drama}   ||   1 hr. 59 min.
+1986   ||   mona_lisa   ||   97%   ||   81%   ||   {Drama, Romance, Mystery & Suspense}   ||   1 hr. 44 min.
+1986   ||   children_of_a_lesser_god   ||   81%   ||   78%   ||   {Drama, Romance, Musical & Performing Arts}   ||   1 hr. 59 min.
+1986   ||   salvador   ||   92%   ||   86%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 3 min.
+1964   ||   my_fair_lady   ||   96%   ||   90%   ||   {Kids & Family, Musical & Performing Arts, Comedy}   ||   2 hr. 50 min.
+1964   ||   becket   ||   76%   ||   88%   ||   {Drama, Classics}   ||   2 hr. 28 min.
+1964   ||   becket   ||   76%   ||   88%   ||   {Drama, Classics}   ||   2 hr. 28 min.
+1964   ||   dr._strangelove   ||   99%   ||   94%   ||   {Classics, Science Fiction & Fantasy, Comedy}   ||   1 hr. 35 min.
+1954   ||   on_the_waterfront   ||   98%   ||   95%   ||   {Drama, Romance, Classics}   ||   1 hr. 48 min.
+1954   ||   the_caine_mutiny   ||   92%   ||   87%   ||   {Drama, Action & Adventure, Romance, Mystery & Suspense, Classics}   ||   2 hr. 4 min.
+1954   ||   the_country_girl   ||   83%   ||   77%   ||   {Drama, Classics}   ||   1 hr. 44 min.
+1954   ||   a_star_is_born   ||   96%   ||   83%   ||   {Drama, Musical & Performing Arts, Classics}   ||   2 hr. 55 min.
+1954   ||   adventures_of_robinson_crusoe   ||   none   ||   58%   ||   {Action & Adventure}   ||   3 hr. 13 min.
+1984   ||   amadeus   ||   95%   ||   95%   ||   {Drama, Musical & Performing Arts, Comedy}   ||   2 hr. 38 min.
+1984   ||   starman   ||   80%   ||   69%   ||   {Drama, Romance, Science Fiction & Fantasy}   ||   1 hr. 55 min.
+1984   ||   under_the_volcano   ||   75%   ||   70%   ||   {Drama}   ||   1 hr. 52 min.
+1984   ||   amadeus   ||   95%   ||   95%   ||   {Drama, Musical & Performing Arts, Comedy}   ||   2 hr. 38 min.
+1984   ||   the_killing_fields   ||   93%   ||   92%   ||   {Art House & International, Drama}   ||   2 hr. 23 min.
+1996   ||   shine   ||   91%   ||   90%   ||   {Musical & Performing Arts, Drama}   ||   1 hr. 45 min.
+1996   ||   jerry_maguire   ||   85%   ||   79%   ||   {Drama, Romance, Comedy}   ||   2 hr. 18 min.
+1996   ||   the_english_patient   ||   84%   ||   83%   ||   {Drama, Romance}   ||   2 hr. 42 min.
+1996   ||   the_people_vs._larry_flynt   ||   87%   ||   80%   ||   {Drama, Comedy}   ||   2 hr. 9 min.
+1996   ||   sling_blade   ||   96%   ||   93%   ||   {Drama}   ||   2 hr. 14 min.
+1995   ||   leaving_las_vegas   ||   90%   ||   85%   ||   {Drama, Romance}   ||   1 hr. 52 min.
+1995   ||   mr._hollands_opus   ||   74%   ||   83%   ||   {Drama}   ||   2 hr. 22 min.
+1995   ||   nixon   ||   75%   ||   74%   ||   {Documentary, Drama}   ||   3 hr. 10 min.
+1995   ||   dead_man_walking   ||   95%   ||   86%   ||   {Mystery & Suspense, Drama}   ||   2 hr.
+1995   ||   il_postino   ||   93%   ||   94%   ||   {Drama, Romance, Art House & International, Comedy}   ||   1 hr. 56 min.
+1987   ||   wall_street   ||   78%   ||   81%   ||   {Drama}   ||   2 hr. 6 min.
+1987   ||   broadcast_news   ||   98%   ||   78%   ||   {Drama, Comedy}   ||   2 hr. 12 min.
+1987   ||   ironweed   ||   65%   ||   60%   ||   {Art House & International, Drama}   ||   2 hr. 15 min.
+1987   ||   good_morning,_vietnam   ||   89%   ||   82%   ||   {Drama, Comedy}   ||   2 hr. 1 min.
+1992   ||   scent_of_a_woman   ||   88%   ||   92%   ||   {Drama}   ||   2 hr. 37 min.
+1992   ||   chaplin   ||   57%   ||   81%   ||   {Drama}   ||   2 hr. 24 min.
+1992   ||   unforgiven   ||   95%   ||   94%   ||   {Western, Drama}   ||   2 hr. 11 min.
+1992   ||   the_crying_game   ||   97%   ||   78%   ||   {Drama, Romance, Mystery & Suspense}   ||   1 hr. 52 min.
+1992   ||   malcolm_x   ||   91%   ||   91%   ||   {Drama}   ||   3 hr. 21 min.
+1953   ||   stalag_17   ||   97%   ||   93%   ||   {Drama, Action & Adventure, Classics, Comedy}   ||   2 hr.
+1953   ||   julius_caesar   ||   100%   ||   81%   ||   {Drama, Mystery & Suspense, Classics}   ||   2 hr. 1 min.
+1953   ||   the_robe   ||   33%   ||   69%   ||   {Drama, Faith & Spirituality, Classics}   ||   2 hr. 15 min.
+1953   ||   from_here_to_eternity   ||   92%   ||   84%   ||   {Drama, Romance, Classics}   ||   1 hr. 58 min.
+1953   ||   from_here_to_eternity   ||   92%   ||   84%   ||   {Drama, Romance, Classics}   ||   1 hr. 58 min.
+2009   ||   up_in_the_air   ||   91%   ||   79%   ||   {Drama, Romance, Comedy}   ||   1 hr. 49 min.
+2009   ||   a_single_man   ||   85%   ||   81%   ||   {Drama}   ||   1 hr. 41 min.
+2009   ||   invictus   ||   76%   ||   74%   ||   {Sports & Fitness, Drama}   ||   2 hr. 14 min.
+2009   ||   the_hurt_locker   ||   98%   ||   84%   ||   {Drama, Action & Adventure}   ||   2 hr. 11 min.
+2015   ||   the_revenant   ||   82%   ||   85%   ||   {Drama, Action & Adventure}   ||   2 hr. 36 min.
+2015   ||   trumbo   ||   75%   ||   80%   ||   {Drama}   ||   2 hr. 4 min.
+2015   ||   the_martian   ||   92%   ||   92%   ||   {Science Fiction & Fantasy}   ||   2 hr. 14 min.
+2015   ||   steve_jobs   ||   86%   ||   74%   ||   {Drama}   ||   2 hr. 3 min.
+2015   ||   the_danish_girl   ||   70%   ||   73%   ||   {Drama}   ||   2 hr.
+1978   ||   coming_home   ||   81%   ||   82%   ||   {Drama, Romance}   ||   2 hr. 10 min.
+1978   ||   autumn_sonata   ||   91%   ||   92%   ||   {Art House & International, Drama}   ||   1 hr. 37 min.
+1978   ||   same_time,_next_year   ||   40%   ||   85%   ||   {Drama, Romance, Comedy}   ||   1 hr. 59 min.
+1978   ||   an_unmarried_woman   ||   89%   ||   75%   ||   {Drama, Comedy}   ||   2 hr. 4 min.
+1978   ||   interiors   ||   77%   ||   79%   ||   {Drama}   ||   1 hr. 35 min.
+1956   ||   anastasia   ||   89%   ||   77%   ||   {Drama, Classics}   ||   1 hr. 45 min.
+1956   ||   baby_doll   ||   100%   ||   82%   ||   {Classics, Comedy}   ||   1 hr. 54 min.
+1956   ||   the_rainmaker   ||   none   ||   62%   ||   {Western, Romance, Classics, Comedy}   ||   2 hr. 5 min.
+1956   ||   the_bad_seed   ||   68%   ||   83%   ||   {Drama, Horror, Mystery & Suspense, Classics}   ||   2 hr. 9 min.
+1956   ||   the_king_and_i   ||   96%   ||   83%   ||   {Romance, Musical & Performing Arts, Classics}   ||   2 hr. 13 min.
+1971   ||   klute   ||   97%   ||   80%   ||   {Drama, Romance, Mystery & Suspense, Classics}   ||   1 hr. 54 min.
+1971   ||   sunday_bloody_sunday   ||   92%   ||   72%   ||   {Drama}   ||   1 hr. 50 min.
+1971   ||   mary,_queen_of_scots   ||   none   ||   58%   ||   {Drama}   ||   2 hr. 8 min.
+1971   ||   nicholas_and_alexandra   ||   69%   ||   79%   ||   {Drama, Art House & International, Classics}   ||   3 hr. 3 min.
+1991   ||   the_silence_of_the_lambs   ||   95%   ||   95%   ||   {Mystery & Suspense, Horror}   ||   1 hr. 58 min.
+1991   ||   rambling_rose   ||   100%   ||   51%   ||   {Drama, Comedy}   ||   1 hr. 55 min.
+2000   ||   erin_brockovich   ||   84%   ||   80%   ||   {Drama, Comedy}   ||   2 hr. 11 min.
+2000   ||   the_contender   ||   76%   ||   73%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 6 min.
+2000   ||   chocolat   ||   63%   ||   83%   ||   {Comedy, Romance}   ||   2 hr. 1 min.
+2000   ||   requiem_for_a_dream   ||   78%   ||   93%   ||   {Drama}   ||   1 hr. 41 min.
+2000   ||   you_can_count_on_me   ||   95%   ||   88%   ||   {Drama}   ||   1 hr. 49 min.
+1989   ||   driving_miss_daisy   ||   82%   ||   81%   ||   {Drama, Comedy}   ||   1 hr. 39 min.
+1989   ||   camille_claudel   ||   100%   ||   88%   ||   {Art House & International, Drama}   ||   2 hr. 53 min.
+1989   ||   shirley_valentine   ||   67%   ||   87%   ||   {Drama, Romance, Comedy}   ||   1 hr. 48 min.
+1989   ||   music_box   ||   75%   ||   76%   ||   {Drama, Musical & Performing Arts, Mystery & Suspense}   ||   2 hr. 6 min.
+1989   ||   the_fabulous_baker_boys   ||   96%   ||   68%   ||   {Drama, Romance, Musical & Performing Arts}   ||   1 hr. 56 min.
+2005   ||   walk_the_line   ||   82%   ||   90%   ||   {Drama}   ||   1 hr. 34 min.
+2005   ||   mrs_henderson_presents   ||   68%   ||   72%   ||   {Drama, Comedy}   ||   1 hr. 43 min.
+2005   ||   transamerica   ||   76%   ||   83%   ||   {Drama, Comedy}   ||   1 hr. 43 min.
+2005   ||   north_country   ||   68%   ||   76%   ||   {Drama}   ||   2 hr. 7 min.
+1994   ||   blue_sky   ||   74%   ||   57%   ||   {Mystery & Suspense, Drama}   ||   1 hr. 41 min.
+1994   ||   nell   ||   53%   ||   64%   ||   {Drama}   ||   1 hr. 52 min.
+1994   ||   little_women   ||   90%   ||   84%   ||   {Drama, Romance}   ||   1 hr. 58 min.
+1994   ||   the_client   ||   80%   ||   69%   ||   {Drama, Action & Adventure, Mystery & Suspense}   ||   2 hr.
+1982   ||   sophies_choice   ||   79%   ||   85%   ||   {Drama, Romance}   ||   2 hr. 31 min.
+1982   ||   victor_victoria   ||   96%   ||   86%   ||   {Romance, Musical & Performing Arts, Comedy}   ||   2 hr. 13 min.
+1982   ||   frances   ||   67%   ||   78%   ||   {Drama}   ||   2 hr. 20 min.
+1982   ||   missing   ||   96%   ||   85%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 2 min.
+1982   ||   an_officer_and_a_gentleman   ||   81%   ||   81%   ||   {Drama, Action & Adventure, Romance}   ||   2 hr. 4 min.
+2007   ||   elizabeth:_the_golden_age   ||   35%   ||   59%   ||   {Mystery & Suspense, Drama}   ||   1 hr. 55 min.
+2007   ||   away_from_her   ||   94%   ||   81%   ||   {Drama}   ||   1 hr. 50 min.
+2007   ||   the_savages   ||   89%   ||   74%   ||   {Drama, Comedy}   ||   1 hr. 54 min.
+2007   ||   juno   ||   94%   ||   88%   ||   {Drama, Comedy}   ||   1 hr. 36 min.
+2003   ||   whale_rider   ||   90%   ||   88%   ||   {Drama, Romance}   ||   1 hr. 45 min.
+2003   ||   somethings_gotta_give   ||   71%   ||   69%   ||   {Comedy, Romance}   ||   2 hr. 3 min.
+2003   ||   in_america   ||   89%   ||   91%   ||   {Drama, Comedy}   ||   1 hr. 43 min.
+2003   ||   21_grams   ||   80%   ||   86%   ||   {Drama}   ||   2 hr. 6 min.
+1960   ||   butterfield_8   ||   47%   ||   58%   ||   {Drama, Classics}   ||   1 hr. 49 min.
+1960   ||   sunrise_at_campobello   ||   100%   ||   61%   ||   {Drama, Classics}   ||   2 hr. 24 min.
+1960   ||   the_sundowners   ||   78%   ||   64%   ||   {Drama, Action & Adventure, Classics}   ||   2 hr. 13 min.
+1960   ||   the_apartment   ||   93%   ||   94%   ||   {Drama, Romance, Classics, Comedy}   ||   2 hr. 5 min.
+1960   ||   never_on_sunday   ||   88%   ||   83%   ||   {Drama, Art House & International, Classics, Comedy}   ||   1 hr. 31 min.
+1999   ||   boys_dont_cry   ||   88%   ||   87%   ||   {Drama}   ||   1 hr. 56 min.
+1999   ||   american_beauty   ||   88%   ||   93%   ||   {Drama, Comedy}   ||   2 hr. 2 min.
+1999   ||   tumbleweeds   ||   83%   ||   65%   ||   {Drama, Comedy}   ||   1 hr. 44 min.
+1999   ||   the_end_of_the_affair   ||   67%   ||   74%   ||   {Drama, Romance}   ||   1 hr. 45 min.
+1999   ||   music_of_the_heart   ||   63%   ||   72%   ||   {Drama, Kids & Family}   ||   2 hr. 14 min.
+1990   ||   misery   ||   89%   ||   89%   ||   {Drama, Horror, Mystery & Suspense}   ||   1 hr. 47 min.
+1990   ||   the_grifters   ||   90%   ||   70%   ||   {Mystery & Suspense, Drama}   ||   1 hr. 54 min.
+1990   ||   pretty_woman   ||   62%   ||   68%   ||   {Comedy, Romance}   ||   1 hr. 57 min.
+1990   ||   postcards_from_the_edge   ||   90%   ||   66%   ||   {Drama, Comedy}   ||   1 hr. 41 min.
+2014   ||   still_alice   ||   88%   ||   85%   ||   {Drama}   ||   1 hr. 39 min.
+2014   ||   two_days,_one_night   ||   97%   ||   77%   ||   {Drama}   ||   1 hr. 35 min.
+2014   ||   the_theory_of_everything   ||   79%   ||   84%   ||   {Drama}   ||   2 hr. 3 min.
+2014   ||   gone_girl   ||   88%   ||   87%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 25 min.
+2014   ||   wild   ||   90%   ||   75%   ||   {Drama}   ||   1 hr. 55 min.
+2001   ||   monsters_ball   ||   85%   ||   67%   ||   {Drama, Romance, Mystery & Suspense}   ||   1 hr. 51 min.
+2001   ||   iris   ||   79%   ||   74%   ||   {Drama, Romance}   ||   1 hr. 30 min.
+2001   ||   moulin_rouge!   ||   76%   ||   89%   ||   {Drama, Romance, Musical & Performing Arts}   ||   2 hr. 6 min.
+2001   ||   in_the_bedroom   ||   93%   ||   81%   ||   {Art House & International, Drama}   ||   2 hr. 11 min.
+2001   ||   bridget_joness_diary   ||   81%   ||   81%   ||   {Comedy, Romance}   ||   1 hr. 34 min.
+1957   ||   the_three_faces_of_eve   ||   93%   ||   77%   ||   {Drama, Classics}   ||   1 hr. 31 min.
+1957   ||   heaven_knows,_mr._allison   ||   88%   ||   82%   ||   {Drama, Action & Adventure, Classics, Comedy}   ||   1 hr. 48 min.
+1957   ||   wild_is_the_wind   ||   none   ||   70%   ||   {Drama, Classics}   ||   1 hr. 54 min.
+1957   ||   raintree_county   ||   11%   ||   53%   ||   {Drama, Romance, Classics}   ||   2 hr. 55 min.
+1957   ||   peyton_place   ||   60%   ||   73%   ||   {Drama, Romance, Classics}   ||   2 hr. 37 min.
+2008   ||   the_reader   ||   61%   ||   79%   ||   {Drama, Romance}   ||   2 hr. 3 min.
+2008   ||   rachel_getting_married   ||   84%   ||   62%   ||   {Drama, Romance}   ||   1 hr. 53 min.
+2008   ||   changeling   ||   62%   ||   82%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 21 min.
+2008   ||   frozen_river   ||   88%   ||   74%   ||   {Drama}   ||   1 hr. 37 min.
+2008   ||   doubt   ||   78%   ||   78%   ||   {Drama}   ||   1 hr. 44 min.
+1985   ||   the_trip_to_bountiful   ||   100%   ||   87%   ||   {Drama}   ||   1 hr. 42 min.
+1985   ||   agnes_of_god   ||   46%   ||   55%   ||   {Mystery & Suspense, Drama}   ||   1 hr. 38 min.
+1985   ||   the_color_purple   ||   88%   ||   94%   ||   {Drama}   ||   2 hr. 34 min.
+1985   ||   sweet_dreams   ||   94%   ||   82%   ||   {Musical & Performing Arts, Drama}   ||   1 hr. 55 min.
+1985   ||   out_of_africa   ||   53%   ||   83%   ||   {Drama, Romance}   ||   2 hr. 41 min.
+1974   ||   alice_doesnt_live_here_anymore   ||   91%   ||   82%   ||   {Drama, Classics}   ||   1 hr. 53 min.
+1974   ||   claudine   ||   none   ||   92%   ||   {Drama, Romance, Classics, Comedy}   ||   1 hr. 32 min.
+1974   ||   chinatown   ||   98%   ||   93%   ||   {Drama, Mystery & Suspense, Classics}   ||   2 hr. 10 min.
+1974   ||   lenny   ||   100%   ||   88%   ||   {Drama, Classics}   ||   1 hr. 51 min.
+1974   ||   a_woman_under_the_influence   ||   95%   ||   92%   ||   {Drama, Classics}   ||   2 hr. 35 min.
+1975   ||   one_flew_over_the_cuckoos_nest   ||   95%   ||   96%   ||   {Drama, Classics, Comedy}   ||   2 hr. 14 min.
+1975   ||   the_story_of_adele_h.   ||   94%   ||   81%   ||   {Art House & International, Drama}   ||   1 hr. 35 min.
+1975   ||   tommy   ||   76%   ||   71%   ||   {Musical & Performing Arts, Drama}   ||   1 hr. 51 min.
+1975   ||   hedda   ||   none   ||   36%   ||   {Art House & International, Drama}   ||   1 hr. 44 min.
+1975   ||   hester_street   ||   71%   ||   62%   ||   {Drama, Romance, Classics}   ||   1 hr. 30 min.
+2013   ||   blue_jasmine   ||   91%   ||   77%   ||   {Comedy}   ||   1 hr. 38 min.
+2013   ||   american_hustle   ||   93%   ||   74%   ||   {Drama}   ||   2 hr. 9 min.
+2013   ||   gravity   ||   96%   ||   80%   ||   {Drama, Science Fiction & Fantasy}   ||   1 hr. 31 min.
+2013   ||   philomena   ||   92%   ||   89%   ||   {Drama}   ||   1 hr. 38 min.
+2013   ||   august:_osage_county   ||   64%   ||   65%   ||   {Drama}   ||   2 hr. 1 min.
+1993   ||   the_piano   ||   90%   ||   86%   ||   {Drama, Romance, Art House & International}   ||   2 hr. 1 min.
+1993   ||   whats_love_got_to_do_with_it   ||   96%   ||   88%   ||   {Musical & Performing Arts, Drama}   ||   1 hr. 58 min.
+1993   ||   six_degrees_of_separation   ||   88%   ||   71%   ||   {Drama, Comedy}   ||   1 hr. 52 min.
+1993   ||   the_remains_of_the_day   ||   97%   ||   90%   ||   {Drama, Romance}   ||   2 hr. 14 min.
+1993   ||   shadowlands   ||   96%   ||   89%   ||   {Drama, Romance}   ||   2 hr. 10 min.
+1973   ||   a_touch_of_class   ||   91%   ||   65%   ||   {Comedy, Romance}   ||   1 hr. 46 min.
+1973   ||   the_exorcist   ||   87%   ||   87%   ||   {Classics, Horror}   ||   2 hr. 2 min.
+1973   ||   cinderella_liberty   ||   none   ||   63%   ||   {Drama, Romance, Classics}   ||   1 hr. 57 min.
+1973   ||   the_way_we_were   ||   63%   ||   82%   ||   {Drama, Romance, Classics}   ||   1 hr. 58 min.
+1973   ||   summer_wishes,_winter_dreams   ||   none   ||   21%   ||   {Drama, Classics, Special Interest}   ||   1 hr. 27 min.
+1966   ||   a_man_and_a_woman   ||   77%   ||   88%   ||   {Drama, Romance, Art House & International}   ||   1 hr. 42 min.
+1966   ||   the_shop_on_main_street   ||   100%   ||   94%   ||   {Drama, Art House & International, Comedy}   ||   1 hr. 51 min.
+1966   ||   georgy_girl   ||   90%   ||   71%   ||   {Drama, Romance, Art House & International, Classics, Comedy}   ||   1 hr. 40 min.
+1983   ||   terms_of_endearment   ||   88%   ||   84%   ||   {Drama, Romance, Comedy}   ||   2 hr. 12 min.
+1983   ||   testament   ||   86%   ||   75%   ||   {Drama}   ||   1 hr. 30 min.
+1983   ||   silkwood   ||   75%   ||   78%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 11 min.
+1983   ||   educating_rita   ||   85%   ||   81%   ||   {Drama, Romance, Art House & International, Comedy}   ||   1 hr. 50 min.
+1983   ||   terms_of_endearment   ||   88%   ||   84%   ||   {Drama, Romance, Comedy}   ||   2 hr. 12 min.
+1965   ||   darling   ||   70%   ||   72%   ||   {Drama, Romance, Art House & International, Classics, Comedy}   ||   2 hr. 4 min.
+1965   ||   the_sound_of_music   ||   86%   ||   91%   ||   {Drama, Kids & Family, Musical & Performing Arts, Classics}   ||   2 hr. 54 min.
+1965   ||   the_collector   ||   100%   ||   83%   ||   {Drama, Mystery & Suspense, Classics, Special Interest}   ||   1 hr. 59 min.
+1965   ||   a_patch_of_blue   ||   100%   ||   91%   ||   {Drama, Romance, Classics}   ||   1 hr. 45 min.
+1965   ||   ship_of_fools   ||   81%   ||   80%   ||   {Documentary, Drama, Romance, Classics}   ||   52 min.
+1972   ||   cabaret   ||   97%   ||   87%   ||   {Drama, Musical & Performing Arts, Classics}   ||   2 hr. 4 min.
+1972   ||   lady_sings_the_blues   ||   75%   ||   87%   ||   {Drama, Musical & Performing Arts, Classics}   ||   2 hr. 24 min.
+1972   ||   travels_with_my_aunt   ||   40%   ||   52%   ||   {Drama, Action & Adventure, Comedy}   ||   1 hr. 49 min.
+1972   ||   sounder   ||   88%   ||   77%   ||   {Drama, Kids & Family, Classics}   ||   1 hr. 45 min.
+1972   ||   the_emigrants   ||   88%   ||   88%   ||   {Drama, Action & Adventure, Art House & International, Classics}   ||   2 hr. 31 min.
+1968   ||   the_lion_in_winter   ||   90%   ||   90%   ||   {Drama, Classics}   ||   2 hr. 14 min.
+1968   ||   funny_girl   ||   92%   ||   85%   ||   {Drama, Musical & Performing Arts, Classics, Comedy}   ||   2 hr. 35 min.
+1968   ||   the_subject_was_roses   ||   100%   ||   68%   ||   {Drama, Classics}   ||   1 hr. 48 min.
+1968   ||   rachel,_rachel   ||   86%   ||   78%   ||   {Drama, Romance, Classics}   ||   1 hr. 42 min.
+1981   ||   on_golden_pond   ||   92%   ||   87%   ||   {Drama}   ||   1 hr. 49 min.
+1981   ||   reds   ||   94%   ||   82%   ||   {Drama, Romance, Classics}   ||   3 hr. 15 min.
+1981   ||   only_when_i_laugh   ||   50%   ||   40%   ||   {Drama, Comedy}   ||   2 hr.
+1981   ||   atlantic_city   ||   100%   ||   78%   ||   {Drama, Romance, Art House & International}   ||   1 hr. 43 min.
+1981   ||   the_french_lieutenants_woman   ||   76%   ||   68%   ||   {Drama, Romance, Art House & International}   ||   2 hr. 7 min.
+1977   ||   annie_hall   ||   98%   ||   93%   ||   {Comedy, Romance}   ||   1 hr. 33 min.
+1977   ||   the_turning_point   ||   56%   ||   69%   ||   {Drama, Romance}   ||   1 hr. 59 min.
+1977   ||   the_turning_point   ||   56%   ||   69%   ||   {Drama, Romance}   ||   1 hr. 59 min.
+1977   ||   the_goodbye_girl   ||   88%   ||   84%   ||   {Comedy, Romance}   ||   1 hr. 50 min.
+1997   ||   as_good_as_it_gets   ||   86%   ||   87%   ||   {Drama, Romance, Comedy}   ||   2 hr. 19 min.
+1997   ||   the_wings_of_the_dove   ||   86%   ||   79%   ||   {Drama, Romance}   ||   1 hr. 38 min.
+1997   ||   afterglow   ||   74%   ||   46%   ||   {Drama, Romance, Art House & International, Comedy}   ||   1 hr. 59 min.
+1997   ||   titanic   ||   88%   ||   69%   ||   {Drama, Romance}   ||   3 hr. 14 min.
+1949   ||   the_heiress   ||   100%   ||   93%   ||   {Drama, Romance, Classics}   ||   1 hr. 55 min.
+1949   ||   pinky   ||   67%   ||   70%   ||   {Drama, Classics}   ||   1 hr. 42 min.
+1949   ||   my_foolish_heart   ||   none   ||   50%   ||   {Drama, Romance, Classics}   ||   1 hr. 38 min.
+1949   ||   edward,_my_son   ||   none   ||   47%   ||   {Drama, Classics}   ||   1 hr. 52 min.
+1949   ||   come_to_the_stable   ||   none   ||   78%   ||   {Faith & Spirituality, Classics, Drama}   ||   1 hr. 34 min.
+2011   ||   the_iron_lady   ||   51%   ||   51%   ||   {Art House & International, Drama}   ||   1 hr. 44 min.
+2011   ||   albert_nobbs   ||   56%   ||   48%   ||   {Drama}   ||   1 hr. 53 min.
+2011   ||   the_help   ||   76%   ||   89%   ||   {Drama}   ||   2 hr. 17 min.
+2011   ||   the_girl_with_the_dragon_tattoo   ||   86%   ||   86%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 37 min.
+2011   ||   my_week_with_marilyn   ||   83%   ||   71%   ||   {Drama}   ||   1 hr. 39 min.
+1948   ||   johnny_belinda   ||   88%   ||   88%   ||   {Drama, Classics}   ||   1 hr. 43 min.
+1948   ||   joan_of_arc   ||   none   ||   55%   ||   {Drama, Classics}   ||   1 hr. 40 min.
+1948   ||   the_snake_pit   ||   100%   ||   82%   ||   {Drama, Mystery & Suspense, Classics}   ||   1 hr. 48 min.
+1948   ||   i_remember_mama   ||   100%   ||   86%   ||   {Drama, Classics}   ||   2 hr. 14 min.
+1948   ||   sorry,_wrong_number   ||   86%   ||   77%   ||   {Drama, Horror, Mystery & Suspense, Classics}   ||   1 hr. 29 min.
+1950   ||   born_yesterday   ||   95%   ||   86%   ||   {Drama, Classics, Comedy}   ||   1 hr. 43 min.
+1950   ||   all_about_eve   ||   100%   ||   94%   ||   {Drama, Classics, Comedy}   ||   2 hr. 18 min.
+1950   ||   all_about_eve   ||   100%   ||   94%   ||   {Drama, Classics, Comedy}   ||   2 hr. 18 min.
+1950   ||   caged   ||   none   ||   85%   ||   {Drama, Horror, Classics}   ||   1 hr. 36 min.
+1950   ||   sunset_boulevard   ||   98%   ||   95%   ||   {Drama, Classics}   ||   1 hr. 51 min.
+1979   ||   norma_rae   ||   90%   ||   79%   ||   {Musical & Performing Arts, Drama}   ||   2 hr.
+1979   ||   starting_over   ||   none   ||   61%   ||   {Comedy, Romance}   ||   1 hr. 45 min.
+1979   ||   the_china_syndrome   ||   83%   ||   81%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 2 min.
+1979   ||   chapter_two   ||   40%   ||   36%   ||   {Drama, Comedy}   ||   2 hr. 4 min.
+1979   ||   the_rose   ||   86%   ||   82%   ||   {Musical & Performing Arts, Drama}   ||   2 hr. 14 min.
+1980   ||   coal_miners_daughter   ||   100%   ||   86%   ||   {Musical & Performing Arts, Drama}   ||   2 hr. 5 min.
+1980   ||   resurrection   ||   100%   ||   79%   ||   {Drama, Faith & Spirituality, Science Fiction & Fantasy}   ||   1 hr. 43 min.
+1980   ||   private_benjamin   ||   88%   ||   60%   ||   {Comedy}   ||   1 hr. 50 min.
+1980   ||   ordinary_people   ||   93%   ||   88%   ||   {Drama}   ||   2 hr. 4 min.
+1980   ||   gloria   ||   95%   ||   81%   ||   {Drama, Action & Adventure, Mystery & Suspense, Comedy}   ||   2 hr. 3 min.
+1947   ||   the_farmers_daughter   ||   none   ||   77%   ||   {Classics, Comedy}   ||   1 hr. 37 min.
+1947   ||   possessed   ||   86%   ||   76%   ||   {Drama, Mystery & Suspense, Classics}   ||   1 hr. 49 min.
+1947   ||   smash-up,_the_story_of_a_woman   ||   none   ||   47%   ||   {Drama, Romance, Musical & Performing Arts, Classics}   ||   1 hr. 43 min.
+1947   ||   gentlemans_agreement   ||   78%   ||   77%   ||   {Drama, Romance, Classics}   ||   1 hr. 58 min.
+1947   ||   mourning_becomes_electra   ||   none   ||   48%   ||   {Drama, Classics}   ||   2 hr. 37 min.
+1967   ||   guess_whos_coming_to_dinner   ||   68%   ||   85%   ||   {Drama, Romance, Classics, Comedy}   ||   1 hr. 48 min.
+1967   ||   the_graduate   ||   89%   ||   90%   ||   {Drama, Romance, Classics, Comedy}   ||   1 hr. 46 min.
+1967   ||   bonnie_and_clyde   ||   90%   ||   88%   ||   {Drama, Action & Adventure, Classics}   ||   1 hr. 51 min.
+1967   ||   the_whisperers   ||   none   ||   61%   ||   {Drama, Art House & International, Mystery & Suspense, Classics}   ||   1 hr. 46 min.
+1967   ||   wait_until_dark   ||   94%   ||   91%   ||   {Mystery & Suspense}   ||   1 hr. 48 min.
+1951   ||   a_streetcar_named_desire   ||   98%   ||   90%   ||   {Drama, Classics}   ||   2 hr. 2 min.
+1951   ||   the_african_queen   ||   100%   ||   86%   ||   {Drama, Action & Adventure, Romance, Classics}   ||   1 hr. 45 min.
+1951   ||   detective_story   ||   67%   ||   71%   ||   {Drama, Mystery & Suspense, Classics}   ||   1 hr. 43 min.
+1951   ||   a_place_in_the_sun   ||   75%   ||   84%   ||   {Drama, Romance, Classics}   ||   2 hr. 2 min.
+1951   ||   the_blue_veil   ||   none   ||   80%   ||   {Drama}   ||   1 hr. 53 min.
+2010   ||   black_swan   ||   86%   ||   84%   ||   {Mystery & Suspense, Drama}   ||   1 hr. 48 min.
+2010   ||   the_kids_are_all_right   ||   93%   ||   73%   ||   {Drama, Comedy}   ||   1 hr. 44 min.
+2010   ||   rabbit_hole   ||   86%   ||   72%   ||   {Drama}   ||   1 hr. 31 min.
+2010   ||   winters_bone   ||   94%   ||   76%   ||   {Drama}   ||   1 hr. 39 min.
+2010   ||   blue_valentine   ||   88%   ||   77%   ||   {Drama, Romance}   ||   1 hr. 54 min.
+1955   ||   the_rose_tattoo   ||   80%   ||   77%   ||   {Drama, Romance, Classics}   ||   1 hr. 57 min.
+1955   ||   ill_cry_tomorrow   ||   none   ||   75%   ||   {Drama, Musical & Performing Arts, Classics}   ||   1 hr. 57 min.
+1955   ||   summertime   ||   93%   ||   80%   ||   {Drama, Romance, Classics, Comedy}   ||   1 hr. 38 min.
+1955   ||   love_is_a_many-splendored_thing   ||   50%   ||   57%   ||   {Drama, Romance, Classics}   ||   1 hr. 42 min.
+1955   ||   interrupted_melody   ||   none   ||   68%   ||   {Drama, Musical & Performing Arts, Classics}   ||   1 hr. 46 min.
+2006   ||   the_queen   ||   97%   ||   76%   ||   {Drama}   ||   1 hr. 43 min.
+2006   ||   volver   ||   92%   ||   89%   ||   {Drama, Art House & International, Comedy}   ||   2 hr.
+2006   ||   notes_on_a_scandal   ||   87%   ||   83%   ||   {Drama}   ||   1 hr. 31 min.
+2006   ||   the_devil_wears_prada   ||   75%   ||   76%   ||   {Drama, Comedy}   ||   1 hr. 50 min.
+2006   ||   little_children   ||   80%   ||   82%   ||   {Drama, Comedy}   ||   2 hr. 16 min.
+2012   ||   silver_linings_playbook   ||   92%   ||   86%   ||   {Comedy}   ||   2 hr. 2 min.
+2012   ||   zero_dark_thirty   ||   93%   ||   80%   ||   {Drama}   ||   2 hr. 37 min.
+2012   ||   amour   ||   93%   ||   82%   ||   {Art House & International, Drama}   ||   2 hr. 7 min.
+2012   ||   beasts_of_the_southern_wild   ||   86%   ||   76%   ||   {Drama}   ||   1 hr. 31 min.
+2012   ||   the_impossible   ||   81%   ||   84%   ||   {Drama, Action & Adventure}   ||   1 hr. 53 min.
+1958   ||   i_want_to_live!   ||   100%   ||   83%   ||   {Drama, Classics}   ||   2 hr.
+1958   ||   separate_tables   ||   77%   ||   77%   ||   {Drama, Classics}   ||   1 hr. 40 min.
+1958   ||   some_came_running   ||   80%   ||   77%   ||   {Drama, Classics}   ||   2 hr. 16 min.
+1958   ||   auntie_mame   ||   92%   ||   93%   ||   {Drama, Classics, Comedy}   ||   2 hr. 23 min.
+1958   ||   cat_on_a_hot_tin_roof   ||   97%   ||   93%   ||   {Drama, Classics}   ||   1 hr. 48 min.
+1988   ||   the_accused   ||   95%   ||   79%   ||   {Mystery & Suspense, Drama}   ||   1 hr. 50 min.
+1988   ||   dangerous_liaisons   ||   93%   ||   83%   ||   {Drama}   ||   2 hr.
+1988   ||   working_girl   ||   84%   ||   67%   ||   {Drama, Romance, Comedy}   ||   1 hr. 55 min.
+1988   ||   gorillas_in_the_mist   ||   82%   ||   74%   ||   {Drama}   ||   2 hr. 10 min.
+1946   ||   to_each_his_own   ||   none   ||   84%   ||   {Drama, Classics}   ||   2 hr. 2 min.
+1946   ||   brief_encounter   ||   89%   ||   91%   ||   {Drama, Romance, Classics}   ||   1 hr. 26 min.
+1946   ||   duel_in_the_sun   ||   81%   ||   54%   ||   {Western, Drama, Classics}   ||   2 hr. 10 min.
+1946   ||   sister_kenny   ||   none   ||   69%   ||   {Drama, Classics}   ||   1 hr. 56 min.
+1946   ||   the_yearling   ||   100%   ||   74%   ||   {Classics, Kids & Family}   ||   2 hr. 8 min.
+1970   ||   women_in_love   ||   91%   ||   76%   ||   {Drama, Romance, Art House & International, Classics}   ||   2 hr. 9 min.
+1970   ||   the_great_white_hope   ||   43%   ||   66%   ||   {Drama, Classics}   ||   1 hr. 43 min.
+1970   ||   love_story   ||   57%   ||   76%   ||   {Drama, Romance}   ||   1 hr. 40 min.
+1970   ||   ryans_daughter   ||   50%   ||   73%   ||   {Drama, Romance}   ||   2 hr. 54 min.
+1970   ||   diary_of_a_mad_housewife   ||   77%   ||   84%   ||   {Drama, Comedy}   ||   1 hr. 34 min.
+2004   ||   million_dollar_baby   ||   91%   ||   90%   ||   {Drama, Romance}   ||   2 hr. 13 min.
+2004   ||   being_julia   ||   76%   ||   74%   ||   {Drama, Comedy}   ||   1 hr. 43 min.
+2004   ||   maria_full_of_grace   ||   97%   ||   87%   ||   {Art House & International, Drama}   ||   1 hr. 41 min.
+2004   ||   vera_drake   ||   92%   ||   84%   ||   {Drama}   ||   2 hr. 4 min.
+2004   ||   eternal_sunshine_of_the_spotless_mind   ||   93%   ||   94%   ||   {Drama, Romance, Science Fiction & Fantasy, Comedy}   ||   1 hr. 48 min.
+2002   ||   the_hours   ||   81%   ||   85%   ||   {Drama}   ||   1 hr. 55 min.
+2002   ||   frida   ||   76%   ||   86%   ||   {Drama, Romance}   ||   2 hr. 2 min.
+2002   ||   unfaithful   ||   49%   ||   68%   ||   {Mystery & Suspense, Drama}   ||   2 hr. 4 min.
+2002   ||   far_from_heaven   ||   87%   ||   79%   ||   {Drama, Romance}   ||   1 hr. 47 min.
+2002   ||   chicago   ||   86%   ||   83%   ||   {Drama, Musical & Performing Arts, Comedy}   ||   1 hr. 53 min.
+1976   ||   network   ||   91%   ||   93%   ||   {Drama, Comedy}   ||   2 hr. 1 min.
+1976   ||   rocky   ||   93%   ||   69%   ||   {Sports & Fitness, Drama}   ||   1 hr. 59 min.
+1976   ||   carrie   ||   93%   ||   76%   ||   {Horror}   ||   1 hr. 38 min.
+1961   ||   breakfast_at_tiffanys   ||   88%   ||   91%   ||   {Drama, Romance, Classics, Comedy}   ||   1 hr. 55 min.
+1961   ||   the_hustler   ||   98%   ||   93%   ||   {Drama, Romance}   ||   2 hr. 14 min.
+1961   ||   summer_and_smoke   ||   none   ||   60%   ||   {Drama, Romance, Classics}   ||   1 hr. 58 min.
+1961   ||   splendor_in_the_grass   ||   85%   ||   90%   ||   {Drama, Romance, Classics}   ||   2 hr. 4 min.
+1998   ||   shakespeare_in_love   ||   92%   ||   80%   ||   {Comedy, Romance}   ||   2 hr. 2 min.
+1998   ||   elizabeth   ||   82%   ||   87%   ||   {Drama}   ||   2 hr. 4 min.
+1998   ||   one_true_thing   ||   89%   ||   72%   ||   {Drama}   ||   2 hr. 8 min.
+1998   ||   hilary_and_jackie   ||   86%   ||   83%   ||   {Drama}   ||   2 hr.
+1945   ||   mildred_pierce   ||   82%   ||   91%   ||   {Drama, Mystery & Suspense, Classics}   ||   1 hr. 53 min.
+1945   ||   the_bells_of_st._marys   ||   94%   ||   77%   ||   {Drama, Kids & Family, Classics, Comedy}   ||   2 hr. 6 min.
+1945   ||   the_valley_of_decision   ||   none   ||   81%   ||   {Drama, Romance, Classics}   ||   1 hr. 51 min.
+1945   ||   love_letters   ||   none   ||   63%   ||   {Drama, Romance, Mystery & Suspense, Classics}   ||   1 hr. 41 min.
+1945   ||   leave_her_to_heaven   ||   95%   ||   86%   ||   {Drama, Mystery & Suspense, Classics}   ||   1 hr. 51 min.
+1963   ||   hud   ||   80%   ||   89%   ||   {Drama, Classics}   ||   1 hr. 48 min.
+1963   ||   the_l-shaped_room   ||   none   ||   90%   ||   {Art House & International, Drama}   ||   2 hr. 5 min.
+1963   ||   irma_la_douce   ||   86%   ||   78%   ||   {Romance, Classics, Comedy}   ||   2 hr. 24 min.
+1963   ||   this_sporting_life   ||   100%   ||   87%   ||   {Drama, Classics}   ||   2 hr. 14 min.
+1963   ||   love_with_the_proper_stranger   ||   80%   ||   88%   ||   {Drama, Classics, Comedy}   ||   1 hr. 42 min.
+1959   ||   room_at_the_top   ||   100%   ||   83%   ||   {Drama, Romance, Classics}   ||   1 hr. 58 min.
+1959   ||   pillow_talk   ||   92%   ||   88%   ||   {Romance, Musical & Performing Arts, Classics, Comedy}   ||   1 hr. 38 min.
+1959   ||   the_nuns_story   ||   93%   ||   82%   ||   {Drama, Classics}   ||   2 hr. 29 min.
+1959   ||   suddenly,_last_summer   ||   69%   ||   84%   ||   {Drama, Horror, Mystery & Suspense, Classics}   ||   1 hr. 54 min.
+1959   ||   suddenly,_last_summer   ||   69%   ||   84%   ||   {Drama, Horror, Mystery & Suspense, Classics}   ||   1 hr. 54 min.
+1952   ||   come_back,_little_sheba   ||   83%   ||   80%   ||   {Drama, Classics}   ||   1 hr. 40 min.
+1952   ||   sudden_fear   ||   100%   ||   85%   ||   {Mystery & Suspense, Drama}   ||   1 hr. 50 min.
+1952   ||   the_member_of_the_wedding   ||   86%   ||   55%   ||   {Drama}   ||   1 hr. 30 min.
+1952   ||   with_a_song_in_my_heart   ||   none   ||   64%   ||   {Drama, Musical & Performing Arts, Classics}   ||   1 hr. 57 min.
+1969   ||   the_prime_of_miss_jean_brodie   ||   88%   ||   84%   ||   {Drama, Romance, Classics, Comedy}   ||   1 hr. 56 min.
+1969   ||   anne_of_the_thousand_days   ||   42%   ||   83%   ||   {Drama, Classics}   ||   2 hr. 25 min.
+1969   ||   the_sterile_cuckoo   ||   88%   ||   61%   ||   {Drama, Romance, Comedy}   ||   1 hr. 48 min.
+1969   ||   the_happy_ending   ||   20%   ||   38%   ||   {Drama}   ||   1 hr. 52 min.
+1962   ||   the_miracle_worker   ||   100%   ||   88%   ||   {Drama, Classics}   ||   1 hr. 47 min.
+1962   ||   long_days_journey_into_night   ||   93%   ||   86%   ||   {Drama, Classics}   ||   2 hr. 54 min.
+1962   ||   sweet_bird_of_youth   ||   75%   ||   72%   ||   {Drama, Classics}   ||   2 hr.
+1962   ||   days_of_wine_and_roses   ||   100%   ||   88%   ||   {Drama, Classics}   ||   2 hr. 18 min.
+1986   ||   children_of_a_lesser_god   ||   81%   ||   78%   ||   {Drama, Romance, Musical & Performing Arts}   ||   1 hr. 59 min.
+1986   ||   the_morning_after   ||   71%   ||   38%   ||   {Mystery & Suspense, Drama}   ||   1 hr. 42 min.
+1986   ||   crimes_of_the_heart   ||   81%   ||   66%   ||   {Drama, Comedy}   ||   1 hr. 45 min.
+1986   ||   peggy_sue_got_married   ||   85%   ||   55%   ||   {Drama, Romance, Science Fiction & Fantasy, Comedy}   ||   1 hr. 43 min.
+1986   ||   aliens   ||   98%   ||   94%   ||   {Action & Adventure, Horror, Science Fiction & Fantasy}   ||   2 hr. 18 min.
+1964   ||   mary_poppins   ||   100%   ||   86%   ||   {Kids & Family, Musical & Performing Arts, Classics, Science Fiction & Fantasy, Comedy}   ||   2 hr. 19 min.
+1964   ||   the_pumpkin_eater   ||   64%   ||   75%   ||   {Drama, Classics}   ||   1 hr. 49 min.
+1964   ||   marriage_italian_style   ||   none   ||   84%   ||   {Drama, Romance, Art House & International, Classics, Comedy}   ||   1 hr. 42 min.
+1964   ||   the_unsinkable_molly_brown   ||   71%   ||   71%   ||   {Musical & Performing Arts, Classics}   ||   2 hr. 8 min.
+1954   ||   the_country_girl   ||   83%   ||   77%   ||   {Drama, Classics}   ||   1 hr. 44 min.
+1954   ||   carmen_jones   ||   74%   ||   79%   ||   {Drama, Musical & Performing Arts, Classics}   ||   1 hr. 45 min.
+1954   ||   a_star_is_born   ||   96%   ||   83%   ||   {Drama, Musical & Performing Arts, Classics}   ||   2 hr. 55 min.
+1954   ||   sabrina   ||   91%   ||   89%   ||   {Drama, Romance, Classics, Comedy}   ||   1 hr. 53 min.
+1954   ||   magnificent_obsession   ||   90%   ||   72%   ||   {Drama, Romance, Classics}   ||   1 hr. 48 min.
+1984   ||   places_in_the_heart   ||   96%   ||   82%   ||   {Drama}   ||   1 hr. 53 min.
+1984   ||   a_passage_to_india   ||   85%   ||   78%   ||   {Drama}   ||   2 hr. 44 min.
+1984   ||   country   ||   100%   ||   69%   ||   {Drama}   ||   1 hr. 49 min.
+1984   ||   the_bostonians   ||   80%   ||   35%   ||   {Drama, Romance}   ||   2 hr.
+1984   ||   the_river   ||   none   ||   50%   ||   {Drama}   ||   1 hr. 52 min.
+1996   ||   fargo   ||   94%   ||   93%   ||   {Mystery & Suspense, Drama}   ||   1 hr. 37 min.
+1996   ||   marvins_room   ||   80%   ||   62%   ||   {Drama}   ||   1 hr. 38 min.
+1996   ||   the_english_patient   ||   84%   ||   83%   ||   {Drama, Romance}   ||   2 hr. 42 min.
+1996   ||   breaking_the_waves   ||   86%   ||   91%   ||   {Drama, Romance, Art House & International}   ||   1 hr. 40 min.
+1995   ||   dead_man_walking   ||   95%   ||   86%   ||   {Mystery & Suspense, Drama}   ||   2 hr.
+1995   ||   leaving_las_vegas   ||   90%   ||   85%   ||   {Drama, Romance}   ||   1 hr. 52 min.
+1995   ||   casino   ||   80%   ||   93%   ||   {Drama}   ||   3 hr. 2 min.
+1995   ||   the_bridges_of_madison_county   ||   89%   ||   87%   ||   {Drama, Romance}   ||   2 hr. 15 min.
+1995   ||   sense_and_sensibility   ||   98%   ||   90%   ||   {Drama, Romance, Comedy}   ||   2 hr. 16 min.
+1987   ||   moonstruck   ||   92%   ||   81%   ||   {Drama, Romance, Comedy}   ||   1 hr. 43 min.
+1987   ||   fatal_attraction   ||   78%   ||   71%   ||   {Mystery & Suspense, Drama}   ||   2 hr.
+1987   ||   broadcast_news   ||   98%   ||   78%   ||   {Drama, Comedy}   ||   2 hr. 12 min.
+1987   ||   anna   ||   none   ||   61%   ||   {Documentary, Drama}   ||   1 hr. 41 min.
+1987   ||   ironweed   ||   65%   ||   60%   ||   {Art House & International, Drama}   ||   2 hr. 15 min.
+1992   ||   howards_end   ||   92%   ||   82%   ||   {Drama, Romance, Art House & International}   ||   2 hr. 23 min.
+1992   ||   indochine   ||   71%   ||   84%   ||   {Drama, Romance, Art House & International, Classics}   ||   2 hr. 36 min.
+1992   ||   passion_fish   ||   100%   ||   81%   ||   {Drama, Comedy}   ||   2 hr. 16 min.
+1992   ||   love_field   ||   36%   ||   56%   ||   {Drama, Kids & Family}   ||   1 hr. 44 min.
+1992   ||   lorenzos_oil   ||   94%   ||   80%   ||   {Drama}   ||   2 hr. 16 min.
+1953   ||   roman_holiday   ||   98%   ||   94%   ||   {Drama, Romance, Classics, Comedy}   ||   1 hr. 58 min.
+1953   ||   lili   ||   100%   ||   81%   ||   {Drama, Romance, Musical & Performing Arts, Classics}   ||   1 hr. 21 min.
+1953   ||   mogambo   ||   82%   ||   55%   ||   {Drama, Action & Adventure, Romance, Classics}   ||   1 hr. 55 min.
+1953   ||   from_here_to_eternity   ||   92%   ||   84%   ||   {Drama, Romance, Classics}   ||   1 hr. 58 min.
+1953   ||   the_moon_is_blue   ||   38%   ||   55%   ||   {Romance, Classics, Comedy}   ||   1 hr. 35 min.
+2009   ||   the_blind_side   ||   66%   ||   85%   ||   {Drama, Sports & Fitness, Comedy}   ||   2 hr. 9 min.
+2009   ||   the_last_station   ||   71%   ||   67%   ||   {Drama}   ||   1 hr. 53 min.
+2009   ||   an_education   ||   94%   ||   80%   ||   {Art House & International, Drama}   ||   1 hr. 41 min.
+2015   ||   room   ||   94%   ||   94%   ||   {Drama}   ||   1 hr. 53 min.
+2015   ||   carol   ||   94%   ||   74%   ||   {Drama, Romance}   ||   1 hr. 58 min.
+2015   ||   joy   ||   61%   ||   57%   ||   {Drama}   ||   2 hr. 4 min.
+2015   ||   45_years   ||   97%   ||   70%   ||   {Drama}   ||   1 hr. 33 min.
+2015   ||   brooklyn   ||   97%   ||   88%   ||   {Drama}   ||   1 hr. 51 min.

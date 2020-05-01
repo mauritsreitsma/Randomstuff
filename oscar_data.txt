@@ -1,0 +1,711 @@
+year,     event,     actor,     movie,     role,     won
+1978,     (51st) best actor,     Jon Voight,     Coming Home,     Luke Martin,     True
+1978,     (51st) best actor,     Warren Beatty,     Heaven Can Wait,     Joe Pendleton,     False
+1978,     (51st) best actor,     Gary Busey,     The Buddy Holly Story,     Buddy Holly,     False
+1978,     (51st) best actor,     Robert De Niro,     The Deer Hunter,     Michael Vronsky,     False
+1978,     (51st) best actor,     Laurence Olivier,     The Boys from Brazil,     Ezra Lieberman,     False
+1956,     (29th) best actor,     Yul Brynner,     The King and I,     King Mongkut of Siam,     True
+1956,     (29th) best actor,     James Dean,     Giant,     Jett Rink,     False
+1956,     (29th) best actor,     Kirk Douglas,     Lust for Life,     Vincent van Gogh,     False
+1956,     (29th) best actor,     Rock Hudson,     Giant,     Jordan "Bick" Benedict Jr.,     False
+1956,     (29th) best actor,     Laurence Olivier,     Richard III,     King Richard III of England,     False
+1991,     (64th) best actor,     Anthony Hopkins,     The Silence of the Lambs,     Dr. Hannibal Lecter,     True
+1991,     (64th) best actor,     Warren Beatty,     Bugsy,     Benjamin "Bugsy" Siegel,     False
+1991,     (64th) best actor,     Robert De Niro,     Cape Fear,     Maximilian "Max" Cady,     False
+1991,     (64th) best actor,     Nick Nolte,     The Prince of Tides,     Tom Wingo,     False
+1991,     (64th) best actor,     Robin Williams,     The Fisher King,     Henry "Parry" Sagan,     False
+2000,     (73rd) best actor,     Russell Crowe,     Gladiator,     Maximus Decimus Meridius,     True
+2000,     (73rd) best actor,     Javier Bardem,     Before Night Falls,     Reinaldo Arenas,     False
+2000,     (73rd) best actor,     Tom Hanks,     Cast Away,     Chuck Noland,     False
+2000,     (73rd) best actor,     Ed Harris,     Pollock,     Jackson Pollock,     False
+2000,     (73rd) best actor,     Geoffrey Rush,     Quills,     The Marquis de Sade,     False
+1989,     (62nd) best actor,     Daniel Day-Lewis,     My Left Foot,     Christy Brown,     True
+1989,     (62nd) best actor,     Kenneth Branagh,     Henry V,     King Henry V of England,     False
+1989,     (62nd) best actor,     Tom Cruise,     Born on the Fourth of July,     Ron Kovic,     False
+1989,     (62nd) best actor,     Morgan Freeman,     Driving Miss Daisy,     Hoke Colburn,     False
+1989,     (62nd) best actor,     Robin Williams,     Dead Poets Society,     John Charles "Keats" Keating,     False
+2005,     (78th) best actor,     Philip Seymour Hoffman,     Capote,     Truman Capote,     True
+2005,     (78th) best actor,     Terrence Howard,     Hustle & Flow,     Djay,     False
+2005,     (78th) best actor,     Heath Ledger,     Brokeback Mountain,     Ennis Del Mar,     False
+2005,     (78th) best actor,     Joaquin Phoenix,     Walk the Line,     Johnny Cash,     False
+2005,     (78th) best actor,     David Strathairn,     Good Night, and Good Luck,     Edward R. Murrow,     False
+1994,     (67th) best actor,     Tom Hanks,     Forrest Gump,     Forrest Gump,     True
+1994,     (67th) best actor,     Morgan Freeman,     The Shawshank Redemption,     Ellis Boyd "Red" Redding,     False
+1994,     (67th) best actor,     Nigel Hawthorne,     The Madness of King George,     King George III,     False
+1994,     (67th) best actor,     Paul Newman,     Nobody's Fool,     Donald "Sully" Sullivan,     False
+1994,     (67th) best actor,     John Travolta,     Pulp Fiction,     Vincent Vega,     False
+1982,     (55th) best actor,     Ben Kingsley,     Gandhi,     Mohandas Karamchand Gandhi,     True
+1982,     (55th) best actor,     Dustin Hoffman,     Tootsie,     Michael Dorsey, aka Dorothy Michaels,     False
+1982,     (55th) best actor,     Jack Lemmon,     Missing,     Ed Horman,     False
+1982,     (55th) best actor,     Paul Newman,     The Verdict,     Frank Galvin,     False
+1982,     (55th) best actor,     Peter O'Toole,     My Favorite Year,     Alan Swann,     False
+1971,     (44th) best actor,     Gene Hackman,     The French Connection,     Detective Jimmy "Popeye" Doyle,     True
+1971,     (44th) best actor,     Peter Finch,     Sunday Bloody Sunday,     Dr. Daniel Hirsh,     False
+1971,     (44th) best actor,     Walter Matthau,     Kotch,     Joseph P. Kotcher,     False
+1971,     (44th) best actor,     George C. Scott,     The Hospital,     Dr. Herbert Bock,     False
+1971,     (44th) best actor,     Topol,     Fiddler on the Roof,     Tevye,     False
+2007,     (80th) best actor,     Daniel Day-Lewis,     There Will Be Blood,     Daniel Plainview,     True
+2007,     (80th) best actor,     George Clooney,     Michael Clayton,     Michael Clayton,     False
+2007,     (80th) best actor,     Johnny Depp,     Sweeney Todd: The Demon Barber of Fleet Street,     Sweeney Todd / Benjamin Barker,     False
+2007,     (80th) best actor,     Tommy Lee Jones,     In the Valley of Elah,     Hank Deerfield,     False
+2007,     (80th) best actor,     Viggo Mortensen,     Eastern Promises,     Nikolai Luzhin,     False
+2003,     (76th) best actor,     Sean Penn,     Mystic River,     Jimmy Markum,     True
+2003,     (76th) best actor,     Johnny Depp,     Pirates of the Caribbean: The Curse of the Black Pearl,     Jack Sparrow,     False
+2003,     (76th) best actor,     Ben Kingsley,     House of Sand and Fog,     Massoud Amir Behrani,     False
+2003,     (76th) best actor,     Jude Law,     Cold Mountain,     W. P. Inman,     False
+2003,     (76th) best actor,     Bill Murray,     Lost in Translation,     Bob Harris,     False
+1960,     (33rd) best actor,     Burt Lancaster,     Elmer Gantry,     Elmer Gantry,     True
+1960,     (33rd) best actor,     Trevor Howard,     Sons and Lovers,     Walter Morel,     False
+1960,     (33rd) best actor,     Jack Lemmon,     The Apartment,     C. C. "Bud" Baxter,     False
+1960,     (33rd) best actor,     Laurence Olivier,     The Entertainer,     Archie Rice,     False
+1960,     (33rd) best actor,     Spencer Tracy,     Inherit the Wind,     Henry Drummond,     False
+1999,     (72nd) best actor,     Kevin Spacey,     American Beauty,     Lester Burnham,     True
+1999,     (72nd) best actor,     Russell Crowe,     The Insider,     Jeffrey Wigand,     False
+1999,     (72nd) best actor,     Richard Farnsworth,     The Straight Story,     Alvin Straight,     False
+1999,     (72nd) best actor,     Sean Penn,     Sweet and Lowdown,     Emmet Ray,     False
+1999,     (72nd) best actor,     Denzel Washington,     The Hurricane,     Rubin "The Hurricane" Carter,     False
+1966,     (39th) best actor,     Paul Scofield,     A Man for All Seasons,     Sir Thomas More,     True
+1966,     (39th) best actor,     Alan Arkin,     The Russians Are Coming, the Russians Are Coming,     Lt. Rozanov,     False
+1966,     (39th) best actor,     Richard Burton,     Who's Afraid of Virginia Woolf?,     George,     False
+1966,     (39th) best actor,     Michael Caine,     Alfie,     Alfie Elkins,     False
+1966,     (39th) best actor,     Steve McQueen,     The Sand Pebbles,     Jake Holman,     False
+1990,     (63rd) best actor,     Jeremy Irons,     Reversal of Fortune,     Claus von Bülow,     True
+1990,     (63rd) best actor,     Kevin Costner,     Dances with Wolves,     Lieutenant John J. Dunbar,     False
+1990,     (63rd) best actor,     Robert De Niro,     Awakenings,     Leonard Lowe,     False
+1990,     (63rd) best actor,     Gérard Depardieu,     Cyrano de Bergerac,     Cyrano de Bergerac,     False
+1990,     (63rd) best actor,     Richard Harris,     The Field,     "Bull" McCabe,     False
+2014,     (87th) best actor,     Eddie Redmayne,     The Theory of Everything,     Stephen Hawking,     True
+2014,     (87th) best actor,     Steve Carell,     Foxcatcher,     John du Pont,     False
+2014,     (87th) best actor,     Bradley Cooper,     American Sniper,     Chris Kyle,     False
+2014,     (87th) best actor,     Benedict Cumberbatch,     The Imitation Game,     Alan Turing,     False
+2014,     (87th) best actor,     Michael Keaton,     Birdman,     Riggan Thomson,     False
+2001,     (74th) best actor,     Denzel Washington,     Training Day,     Detective Alonzo Harris,     True
+2001,     (74th) best actor,     Russell Crowe,     A Beautiful Mind,     John Forbes Nash, Jr.,     False
+2001,     (74th) best actor,     Sean Penn,     I Am Sam,     Sam Dawson,     False
+2001,     (74th) best actor,     Will Smith,     Ali,     Muhammad Ali,     False
+2001,     (74th) best actor,     Tom Wilkinson,     In the Bedroom,     Dr. Matt Fowler,     False
+1957,     (30th) best actor,     Alec Guinness,     The Bridge on the River Kwai,     Lt. Colonel L. Nicholson, D.S.O.,     True
+1957,     (30th) best actor,     Marlon Brando,     Sayonara,     Major Lloyd "Ace" Gruver, USAF,     False
+1957,     (30th) best actor,     Anthony Franciosa,     A Hatful of Rain,     Polo Pope,     False
+1957,     (30th) best actor,     Charles Laughton,     Witness for the Prosecution,     Sir Wilfrid Robarts,     False
+1957,     (30th) best actor,     Anthony Quinn,     Wild Is the Wind,     Gino,     False
+2008,     (81st) best actor,     Sean Penn,     Milk,     Harvey Milk,     True
+2008,     (81st) best actor,     Richard Jenkins,     The Visitor,     Walter Vale,     False
+2008,     (81st) best actor,     Frank Langella,     Frost/Nixon,     Richard Nixon,     False
+2008,     (81st) best actor,     Brad Pitt,     The Curious Case of Benjamin Button,     Benjamin Button,     False
+2008,     (81st) best actor,     Mickey Rourke,     The Wrestler,     Randy "The Ram" Robinson,     False
+1985,     (58th) best actor,     William Hurt,     Kiss of the Spider Woman,     Luis Molina,     True
+1985,     (58th) best actor,     Harrison Ford,     Witness,     Detective Captain John Book,     False
+1985,     (58th) best actor,     James Garner,     Murphy's Romance,     Murphy Jones,     False
+1985,     (58th) best actor,     Jack Nicholson,     Prizzi's Honor,     Charley Partanna,     False
+1985,     (58th) best actor,     Jon Voight,     Runaway Train,     Oscar "Manny" Manheim,     False
+1974,     (47th) best actor,     Art Carney,     Harry and Tonto,     Harry Coombes,     True
+1974,     (47th) best actor,     Albert Finney,     Murder on the Orient Express,     Hercule Poirot,     False
+1974,     (47th) best actor,     Dustin Hoffman,     Lenny,     Lenny Bruce,     False
+1974,     (47th) best actor,     Jack Nicholson,     Chinatown,     J. J. "Jake" Gittes,     False
+1974,     (47th) best actor,     Al Pacino,     The Godfather Part II,     Michael Corleone,     False
+1975,     (48th) best actor,     Jack Nicholson,     One Flew Over the Cuckoo's Nest,     Randle Patrick "Mac" McMurphy,     True
+1975,     (48th) best actor,     Walter Matthau,     The Sunshine Boys,     Willy Clark,     False
+1975,     (48th) best actor,     Al Pacino,     Dog Day Afternoon,     Sonny Wortzik,     False
+1975,     (48th) best actor,     Maximilian Schell,     The Man in the Glass Booth,     Arthur Goldman,     False
+1975,     (48th) best actor,     James Whitmore,     Give 'em Hell, Harry!,     Harry S. Truman,     False
+2013,     (86th) best actor,     Matthew McConaughey,     Dallas Buyers Club,     Ron Woodroof,     True
+2013,     (86th) best actor,     Christian Bale,     American Hustle,     Irving Rosenfeld,     False
+2013,     (86th) best actor,     Bruce Dern,     Nebraska,     Woodrow "Woody" Grant,     False
+2013,     (86th) best actor,     Leonardo DiCaprio,     The Wolf of Wall Street,     Jordan Belfort,     False
+2013,     (86th) best actor,     Chiwetel Ejiofor,     12 Years a Slave,     Solomon Northup,     False
+1973,     (46th) best actor,     Jack Lemmon,     Save the Tiger,     Harry Stoner,     True
+1973,     (46th) best actor,     Marlon Brando,     Last Tango in Paris,     Paul,     False
+1973,     (46th) best actor,     Jack Nicholson,     The Last Detail,     Signalman First Class Billy L. "Badass" Buddusky,     False
+1973,     (46th) best actor,     Al Pacino,     Serpico,     Frank Serpico,     False
+1973,     (46th) best actor,     Robert Redford,     The Sting,     Johnny "Kelly" Hooker,     False
+1970,     (43rd) best actor,     George C. Scott,     Patton,     General George S. Patton, Jr.,     True
+1970,     (43rd) best actor,     Melvyn Douglas,     I Never Sang for My Father,     Tom Garrison,     False
+1970,     (43rd) best actor,     James Earl Jones,     The Great White Hope,     Jack Jefferson,     False
+1970,     (43rd) best actor,     Jack Nicholson,     Five Easy Pieces,     Robert Eroica Dupea,     False
+1970,     (43rd) best actor,     Ryan O'Neal,     Love Story,     Oliver Barrett IV,     False
+1983,     (56th) best actor,     Robert Duvall,     Tender Mercies,     Mac Sledge,     True
+1983,     (56th) best actor,     Michael Caine,     Educating Rita,     Dr. Frank Bryant,     False
+1983,     (56th) best actor,     Tom Conti,     Reuben, Reuben,     Gowan McGland,     False
+1983,     (56th) best actor,     Tom Courtenay,     The Dresser,     Norman,     False
+1983,     (56th) best actor,     Albert Finney,     The Dresser,     Sir,     False
+1965,     (38th) best actor,     Lee Marvin,     Cat Ballou,     Kid Shelleen,     True
+1965,     (38th) best actor,     Richard Burton,     The Spy Who Came in from the Cold,     Alec Leamas,     False
+1965,     (38th) best actor,     Laurence Olivier,     Othello,     Othello,     False
+1965,     (38th) best actor,     Rod Steiger,     The Pawnbroker,     Sol Nazerman,     False
+1965,     (38th) best actor,     Oskar Werner,     Ship of Fools,     Willie Schumann,     False
+1972,     (45th) best actor,     Marlon Brando,     The Godfather,     Vito Corleone,     True
+1972,     (45th) best actor,     Michael Caine,     Sleuth,     Milo Tindle,     False
+1972,     (45th) best actor,     Laurence Olivier,     Sleuth,     Andrew Wyke,     False
+1972,     (45th) best actor,     Peter O'Toole,     The Ruling Class,     Jack Gurney, 14th Earl of Gurney,     False
+1972,     (45th) best actor,     Paul Winfield,     Sounder,     Nathan Lee Morgan,     False
+1968,     (41st) best actor,     Cliff Robertson,     Charly,     Charly Gordon,     True
+1968,     (41st) best actor,     Alan Arkin,     The Heart Is a Lonely Hunter,     John Singer,     False
+1968,     (41st) best actor,     Alan Bates,     The Fixer,     Yakov Bok,     False
+1968,     (41st) best actor,     Ron Moody,     Oliver!,     Fagin,     False
+1968,     (41st) best actor,     Peter O'Toole,     The Lion in Winter,     King Henry II of England,     False
+1981,     (54th) best actor,     Henry Fonda,     On Golden Pond,     Norman Thayer, Jr.,     True
+1981,     (54th) best actor,     Warren Beatty,     Reds,     John Silas "Jack" Reed,     False
+1981,     (54th) best actor,     Burt Lancaster,     Atlantic City,     Lou Pascal,     False
+1981,     (54th) best actor,     Dudley Moore,     Arthur,     Arthur Bach,     False
+1981,     (54th) best actor,     Paul Newman,     Absence of Malice,     Michael Colin Gallagher,     False
+1977,     (50th) best actor,     Richard Dreyfuss,     The Goodbye Girl,     Elliot Garfield,     True
+1977,     (50th) best actor,     Woody Allen,     Annie Hall,     Alvy Singer,     False
+1977,     (50th) best actor,     Richard Burton,     Equus,     Martin Dysart,     False
+1977,     (50th) best actor,     Marcello Mastroianni,     A Special Day,     Gabriele,     False
+1977,     (50th) best actor,     John Travolta,     Saturday Night Fever,     Anthony "Tony" Manero,     False
+1997,     (70th) best actor,     Jack Nicholson,     As Good as It Gets,     Melvin Udall,     True
+1997,     (70th) best actor,     Matt Damon,     Good Will Hunting,     Will Hunting,     False
+1997,     (70th) best actor,     Robert Duvall,     The Apostle,     Euliss "Sonny" Dewey,     False
+1997,     (70th) best actor,     Peter Fonda,     Ulee's Gold,     Ulysses "Ulee" Jackson,     False
+1997,     (70th) best actor,     Dustin Hoffman,     Wag the Dog,     Stanley Motss,     False
+1949,     (22nd) best actor,     Broderick Crawford,     All the King's Men,     Willie Stark,     True
+1949,     (22nd) best actor,     Kirk Douglas,     Champion,     Michael "Midge" Kelly,     False
+1949,     (22nd) best actor,     Gregory Peck,     Twelve O'Clock High,     Brig. General Frank Savage,     False
+1949,     (22nd) best actor,     Richard Todd,     The Hasty Heart,     Cpl. Lachlan "Lachie" MacLachlan,     False
+1949,     (22nd) best actor,     John Wayne,     Sands of Iwo Jima,     Sergeant John M. Stryker,     False
+2011,     (84th) best actor,     Jean Dujardin,     The Artist,     George Valentin,     True
+2011,     (84th) best actor,     Demián Bichir,     A Better Life,     Carlos Galindo,     False
+2011,     (84th) best actor,     George Clooney,     The Descendants,     Matthew King,     False
+2011,     (84th) best actor,     Gary Oldman,     Tinker Tailor Soldier Spy,     George Smiley,     False
+2011,     (84th) best actor,     Brad Pitt,     Moneyball,     Billy Beane,     False
+1948,     (21st) best actor,     Laurence Olivier,     Hamlet,     Hamlet, Prince of Denmark,     True
+1948,     (21st) best actor,     Lew Ayres,     Johnny Belinda,     Dr. Robert Richardson,     False
+1948,     (21st) best actor,     Montgomery Clift,     The Search,     Ralph "Steve" Stevenson,     False
+1948,     (21st) best actor,     Dan Dailey,     When My Baby Smiles at Me,     "Skid" Johnson,     False
+1948,     (21st) best actor,     Clifton Webb,     Sitting Pretty,     Lynn Aloysius Belvedere,     False
+1950,     (23rd) best actor,     José Ferrer,     Cyrano de Bergerac,     Cyrano de Bergerac,     True
+1950,     (23rd) best actor,     Louis Calhern,     The Magnificent Yankee,     Oliver Wendell Holmes,     False
+1950,     (23rd) best actor,     William Holden,     Sunset Boulevard,     Joe Gillis,     False
+1950,     (23rd) best actor,     James Stewart,     Harvey,     Elwood P. Dowd,     False
+1950,     (23rd) best actor,     Spencer Tracy,     Father of the Bride,     Stanley T. Banks,     False
+1979,     (52nd) best actor,     Dustin Hoffman,     Kramer vs. Kramer,     Ted Kramer,     True
+1979,     (52nd) best actor,     Jack Lemmon,     The China Syndrome,     Jack Godell,     False
+1979,     (52nd) best actor,     Al Pacino,     ...And Justice for All,     Arthur Kirkland,     False
+1979,     (52nd) best actor,     Roy Scheider,     All That Jazz,     Joe Gideon,     False
+1979,     (52nd) best actor,     Peter Sellers,     Being There,     Chance the Gardener, aka Chauncey Gardiner,     False
+1980,     (53rd) best actor,     Robert De Niro,     Raging Bull,     Jake LaMotta,     True
+1980,     (53rd) best actor,     Robert Duvall,     The Great Santini,     Lieutenant Colonel Wilbur "Bull" Meechum,     False
+1980,     (53rd) best actor,     John Hurt,     The Elephant Man,     John Merrick,     False
+1980,     (53rd) best actor,     Jack Lemmon,     Tribute,     Scottie Templeton,     False
+1980,     (53rd) best actor,     Peter O'Toole,     The Stunt Man,     Eli Cross,     False
+1947,     (20th) best actor,     Ronald Colman,     A Double Life,     Anthony John,     True
+1947,     (20th) best actor,     John Garfield,     Body and Soul,     Charlie Davis,     False
+1947,     (20th) best actor,     Gregory Peck,     Gentleman's Agreement,     Philip Schuyler Green,     False
+1947,     (20th) best actor,     William Powell,     Life with Father,     Clarence Day, Sr.,     False
+1947,     (20th) best actor,     Michael Redgrave,     Mourning Becomes Electra,     Orin Mannon,     False
+1967,     (40th) best actor,     Rod Steiger,     In the Heat of the Night,     Police Chief Bill Gillespie,     True
+1967,     (40th) best actor,     Warren Beatty,     Bonnie and Clyde,     Clyde Barrow,     False
+1967,     (40th) best actor,     Dustin Hoffman,     The Graduate,     Benjamin Braddock,     False
+1967,     (40th) best actor,     Paul Newman,     Cool Hand Luke,     Lucas "Cool Hand Luke" Jackson,     False
+1967,     (40th) best actor,     Spencer Tracy,     Guess Who's Coming to Dinner,     Matt Drayton,     False
+1951,     (24th) best actor,     Humphrey Bogart,     The African Queen,     Charlie Allnut,     True
+1951,     (24th) best actor,     Marlon Brando,     A Streetcar Named Desire,     Stanley Kowalski,     False
+1951,     (24th) best actor,     Montgomery Clift,     A Place in the Sun,     George Eastman,     False
+1951,     (24th) best actor,     Arthur Kennedy,     Bright Victory,     Larry Nevins,     False
+1951,     (24th) best actor,     Fredric March,     Death of a Salesman,     Willy Loman,     False
+2010,     (83rd) best actor,     Colin Firth,     The King's Speech,     King George VI,     True
+2010,     (83rd) best actor,     Javier Bardem,     Biutiful,     Uxbal,     False
+2010,     (83rd) best actor,     Jeff Bridges,     True Grit,     Reuben "Rooster" Cogburn,     False
+2010,     (83rd) best actor,     Jesse Eisenberg,     The Social Network,     Mark Zuckerberg,     False
+2010,     (83rd) best actor,     James Franco,     127 Hours,     Aron Ralston,     False
+1955,     (28th) best actor,     Ernest Borgnine,     Marty,     Marty Piletti,     True
+1955,     (28th) best actor,     James Cagney,     Love Me or Leave Me,     Martin Snyder,     False
+1955,     (28th) best actor,     James Dean,     East of Eden,     Cal Trask,     False
+1955,     (28th) best actor,     Frank Sinatra,     The Man with the Golden Arm,     Frankie Machine,     False
+1955,     (28th) best actor,     Spencer Tracy,     Bad Day at Black Rock,     John J. Macreedy,     False
+2006,     (79th) best actor,     Forest Whitaker,     The Last King of Scotland,     Idi Amin,     True
+2006,     (79th) best actor,     Leonardo DiCaprio,     Blood Diamond,     Danny Archer,     False
+2006,     (79th) best actor,     Ryan Gosling,     Half Nelson,     Dan Dunne,     False
+2006,     (79th) best actor,     Peter O'Toole,     Venus,     Maurice,     False
+2006,     (79th) best actor,     Will Smith,     The Pursuit of Happyness,     Chris Gardner,     False
+2012,     (85th) best actor,     Daniel Day-Lewis,     Lincoln,     Abraham Lincoln,     True
+2012,     (85th) best actor,     Bradley Cooper,     Silver Linings Playbook,     Patrizio "Pat" Solitano, Jr.,     False
+2012,     (85th) best actor,     Hugh Jackman,     Les Misérables,     Jean Valjean,     False
+2012,     (85th) best actor,     Joaquin Phoenix,     The Master,     Freddie Quell,     False
+2012,     (85th) best actor,     Denzel Washington,     Flight,     William "Whip" Whitaker, Sr.,     False
+1958,     (31st) best actor,     David Niven,     Separate Tables,     Major Angus Pollock,     True
+1958,     (31st) best actor,     Tony Curtis,     The Defiant Ones,     John 'Joker' Jackson,     False
+1958,     (31st) best actor,     Paul Newman,     Cat on a Hot Tin Roof,     Brick Pollitt,     False
+1958,     (31st) best actor,     Sidney Poitier,     The Defiant Ones,     Noah Cullen,     False
+1958,     (31st) best actor,     Spencer Tracy,     The Old Man and the Sea,     The Old Man,     False
+1988,     (61st) best actor,     Dustin Hoffman,     Rain Man,     Raymond Babbitt,     True
+1988,     (61st) best actor,     Gene Hackman,     Mississippi Burning,     Agent Rupert Anderson,     False
+1988,     (61st) best actor,     Tom Hanks,     Big,     Josh Baskin,     False
+1988,     (61st) best actor,     Edward James Olmos,     Stand and Deliver,     Jaime Escalante,     False
+1988,     (61st) best actor,     Max von Sydow,     Pelle the Conqueror,     Lassefar,     False
+1946,     (19th) best actor,     Fredric March,     The Best Years of Our Lives,     Al Stephenson,     True
+1946,     (19th) best actor,     Laurence Olivier,     Henry V,     King Henry V of England,     False
+1946,     (19th) best actor,     Larry Parks,     The Jolson Story,     Al Jolson,     False
+1946,     (19th) best actor,     Gregory Peck,     The Yearling,     Ezra "Penny" Baxter,     False
+1946,     (19th) best actor,     James Stewart,     It's a Wonderful Life,     George Bailey,     False
+1993,     (66th) best actor,     Tom Hanks,     Philadelphia,     Andrew Beckett,     True
+1993,     (66th) best actor,     Daniel Day-Lewis,     In the Name of the Father,     Gerry Conlon,     False
+1993,     (66th) best actor,     Laurence Fishburne,     What's Love Got to Do with It,     Ike Turner,     False
+1993,     (66th) best actor,     Anthony Hopkins,     The Remains of the Day,     James Stevens,     False
+1993,     (66th) best actor,     Liam Neeson,     Schindler's List,     Oskar Schindler,     False
+2004,     (77th) best actor,     Jamie Foxx,     Ray,     Ray Charles,     True
+2004,     (77th) best actor,     Don Cheadle,     Hotel Rwanda,     Paul Rusesabagina,     False
+2004,     (77th) best actor,     Johnny Depp,     Finding Neverland,     J. M. Barrie,     False
+2004,     (77th) best actor,     Leonardo DiCaprio,     The Aviator,     Howard Hughes,     False
+2004,     (77th) best actor,     Clint Eastwood,     Million Dollar Baby,     Frankie Dunn,     False
+2002,     (75th) best actor,     Adrien Brody,     The Pianist,     Władysław Szpilman,     True
+2002,     (75th) best actor,     Nicolas Cage,     Adaptation,     Charlie Kaufman,     False
+2002,     (75th) best actor,     Michael Caine,     The Quiet American,     Thomas Fowler,     False
+2002,     (75th) best actor,     Daniel Day-Lewis,     Gangs of New York,     William "Bill the Butcher" Cutting,     False
+2002,     (75th) best actor,     Jack Nicholson,     About Schmidt,     Warren R. Schmidt,     False
+1976,     (49th) best actor,     Peter Finch,     Network,     Howard Beale,     True
+1976,     (49th) best actor,     Robert De Niro,     Taxi Driver,     Travis Bickle,     False
+1976,     (49th) best actor,     Giancarlo Giannini,     Seven Beauties,     Pasqualino Frafuso,     False
+1976,     (49th) best actor,     William Holden,     Network,     Max Schumacher,     False
+1976,     (49th) best actor,     Sylvester Stallone,     Rocky,     Rocky Balboa,     False
+1961,     (34th) best actor,     Maximilian Schell,     Judgment at Nuremberg,     Hans Rolfe,     True
+1961,     (34th) best actor,     Charles Boyer,     Fanny,     Cesar,     False
+1961,     (34th) best actor,     Paul Newman,     The Hustler,     Eddie Felson,     False
+1961,     (34th) best actor,     Spencer Tracy,     Judgment at Nuremberg,     Chief Judge Dan Haywood,     False
+1961,     (34th) best actor,     Stuart Whitman,     The Mark,     Jim Fuller,     False
+1998,     (71st) best actor,     Roberto Benigni,     Life Is Beautiful,     Guido Orefice,     True
+1998,     (71st) best actor,     Tom Hanks,     Saving Private Ryan,     Captain John Miller,     False
+1998,     (71st) best actor,     Ian McKellen,     Gods and Monsters,     James Whale,     False
+1998,     (71st) best actor,     Nick Nolte,     Affliction,     Wade Whitehouse,     False
+1998,     (71st) best actor,     Edward Norton,     American History X,     Derek Vinyard,     False
+1945,     (18th) best actor,     Ray Milland,     The Lost Weekend,     Don Birnam,     True
+1945,     (18th) best actor,     Bing Crosby,     The Bells of St. Mary's,     Father Chuck O'Malley,     False
+1945,     (18th) best actor,     Gene Kelly,     Anchors Aweigh,     Joseph Brady,     False
+1945,     (18th) best actor,     Gregory Peck,     The Keys of the Kingdom,     Father Francis,     False
+1945,     (18th) best actor,     Cornel Wilde,     A Song to Remember,     Frédéric Chopin,     False
+1963,     (36th) best actor,     Sidney Poitier,     Lilies of the Field,     Homer Smith,     True
+1963,     (36th) best actor,     Albert Finney,     Tom Jones,     Tom Jones,     False
+1963,     (36th) best actor,     Richard Harris,     This Sporting Life,     Frank Machin,     False
+1963,     (36th) best actor,     Rex Harrison,     Cleopatra,     Julius Caesar,     False
+1963,     (36th) best actor,     Paul Newman,     Hud,     Hud Bannon,     False
+1959,     (32nd) best actor,     Charlton Heston,     Ben-Hur,     Judah Ben-Hur,     True
+1959,     (32nd) best actor,     Laurence Harvey,     Room at the Top,     Joe Lampton,     False
+1959,     (32nd) best actor,     Jack Lemmon,     Some Like It Hot,     Jerry / Daphne,     False
+1959,     (32nd) best actor,     Paul Muni,     The Last Angry Man,     Dr. Sam Abelman,     False
+1959,     (32nd) best actor,     James Stewart,     Anatomy of a Murder,     Paul Biegler,     False
+1952,     (25th) best actor,     Gary Cooper,     High Noon,     Marshal Will Kane,     True
+1952,     (25th) best actor,     Marlon Brando,     Viva Zapata!,     Emiliano Zapata,     False
+1952,     (25th) best actor,     Kirk Douglas,     The Bad and the Beautiful,     Jonathan Shields,     False
+1952,     (25th) best actor,     José Ferrer,     Moulin Rouge,     Henri de Toulouse-Lautrec,     False
+1952,     (25th) best actor,     Alec Guinness,     The Lavender Hill Mob,     Holland,     False
+1969,     (42nd) best actor,     John Wayne,     True Grit,     Reuben "Rooster" Cogburn,     True
+1969,     (42nd) best actor,     Richard Burton,     Anne of the Thousand Days,     King Henry VIII of England,     False
+1969,     (42nd) best actor,     Dustin Hoffman,     Midnight Cowboy,     Enrico Salvatore "Ratso" "Rico" Rizzo,     False
+1969,     (42nd) best actor,     Peter O'Toole,     Goodbye, Mr. Chips,     Arthur Chipping,     False
+1969,     (42nd) best actor,     Jon Voight,     Midnight Cowboy,     Joe Buck,     False
+1962,     (35th) best actor,     Gregory Peck,     To Kill a Mockingbird,     Atticus Finch,     True
+1962,     (35th) best actor,     Burt Lancaster,     Birdman of Alcatraz,     Robert Franklin Stroud,     False
+1962,     (35th) best actor,     Jack Lemmon,     Days of Wine and Roses,     Joe Clay,     False
+1962,     (35th) best actor,     Marcello Mastroianni,     Divorce Italian Style,     Ferdinando Cefalù,     False
+1962,     (35th) best actor,     Peter O'Toole,     Lawrence of Arabia,     T. E. Lawrence,     False
+1986,     (59th) best actor,     Paul Newman,     The Color of Money,     Fast Eddie Felson,     True
+1986,     (59th) best actor,     Dexter Gordon,     Round Midnight,     Dale Turner,     False
+1986,     (59th) best actor,     Bob Hoskins,     Mona Lisa,     George,     False
+1986,     (59th) best actor,     William Hurt,     Children of a Lesser God,     James Leeds,     False
+1986,     (59th) best actor,     James Woods,     Salvador,     Richard Boyle,     False
+1964,     (37th) best actor,     Rex Harrison,     My Fair Lady,     Professor Henry Higgins,     True
+1964,     (37th) best actor,     Richard Burton,     Becket,     Thomas Becket,     False
+1964,     (37th) best actor,     Peter O'Toole,     Becket,     King Henry II of England,     False
+1964,     (37th) best actor,     Anthony Quinn,     Zorba the Greek,     Alexis Zorba,     False
+1964,     (37th) best actor,     Peter Sellers,     Dr. Strangelove,     Group Captain Lionel Mandrake,     False
+1954,     (27th) best actor,     Marlon Brando,     On the Waterfront,     Terry Malloy,     True
+1954,     (27th) best actor,     Humphrey Bogart,     The Caine Mutiny,     Lt. Cmdr. Philip Francis Queeg,     False
+1954,     (27th) best actor,     Bing Crosby,     The Country Girl,     Frank Elgin,     False
+1954,     (27th) best actor,     James Mason,     A Star Is Born,     Norman Maine,     False
+1954,     (27th) best actor,     Dan O'Herlihy,     Adventures of Robinson Crusoe,     Robinson Crusoe,     False
+1984,     (57th) best actor,     F. Murray Abraham,     Amadeus,     Antonio Salieri,     True
+1984,     (57th) best actor,     Jeff Bridges,     Starman,     Starman,     False
+1984,     (57th) best actor,     Albert Finney,     Under the Volcano,     Geoffrey Firmin,     False
+1984,     (57th) best actor,     Tom Hulce,     Amadeus,     Wolfgang Amadeus Mozart,     False
+1984,     (57th) best actor,     Sam Waterston,     The Killing Fields,     Sydney Schanberg,     False
+1996,     (69th) best actor,     Geoffrey Rush,     Shine,     David Helfgott,     True
+1996,     (69th) best actor,     Tom Cruise,     Jerry Maguire,     Jerry Maguire,     False
+1996,     (69th) best actor,     Ralph Fiennes,     The English Patient,     Count Laszlo de Almásy,     False
+1996,     (69th) best actor,     Woody Harrelson,     The People vs. Larry Flynt,     Larry Flynt,     False
+1996,     (69th) best actor,     Billy Bob Thornton,     Sling Blade,     Karl Childers,     False
+1995,     (68th) best actor,     Nicolas Cage,     Leaving Las Vegas,     Ben Sanderson,     True
+1995,     (68th) best actor,     Richard Dreyfuss,     Mr. Holland's Opus,     Glenn Holland,     False
+1995,     (68th) best actor,     Anthony Hopkins,     Nixon,     Richard Nixon,     False
+1995,     (68th) best actor,     Sean Penn,     Dead Man Walking,     Matthew Poncelet,     False
+1995,     (68th) best actor,     Massimo Troisi,     Il Postino,     Mario Ruoppolo,     False
+1987,     (60th) best actor,     Michael Douglas,     Wall Street,     Gordon Gekko,     True
+1987,     (60th) best actor,     William Hurt,     Broadcast News,     Tom Grunick,     False
+1987,     (60th) best actor,     Marcello Mastroianni,     Dark Eyes,     Romano,     False
+1987,     (60th) best actor,     Jack Nicholson,     Ironweed,     Francis Phelan,     False
+1987,     (60th) best actor,     Robin Williams,     Good Morning, Vietnam,     Adrian Cronauer,     False
+1992,     (65th) best actor,     Al Pacino,     Scent of a Woman,     Lieutenant Colonel Frank Slade,     True
+1992,     (65th) best actor,     Robert Downey, Jr.,     Chaplin,     Charlie Chaplin,     False
+1992,     (65th) best actor,     Clint Eastwood,     Unforgiven,     William "Will" Munny,     False
+1992,     (65th) best actor,     Stephen Rea,     The Crying Game,     Fergus,     False
+1992,     (65th) best actor,     Denzel Washington,     Malcolm X,     Malcolm X,     False
+1953,     (26th) best actor,     William Holden,     Stalag 17,     Sgt. J.J. Sefton,     True
+1953,     (26th) best actor,     Marlon Brando,     Julius Caesar,     Mark Antony,     False
+1953,     (26th) best actor,     Richard Burton,     The Robe,     Marcellus Gallio,     False
+1953,     (26th) best actor,     Montgomery Clift,     From Here to Eternity,     Pvt. Robert E. Lee 'Prew' Prewitt,     False
+1953,     (26th) best actor,     Burt Lancaster,     From Here to Eternity,     1st Sgt. Milton Warden,     False
+2009,     (82nd) best actor,     Jeff Bridges,     Crazy Heart,     Otis "Bad" Blake,     True
+2009,     (82nd) best actor,     George Clooney,     Up in the Air,     Ryan Bingham,     False
+2009,     (82nd) best actor,     Colin Firth,     A Single Man,     George Falconer,     False
+2009,     (82nd) best actor,     Morgan Freeman,     Invictus,     Nelson Mandela,     False
+2009,     (82nd) best actor,     Jeremy Renner,     The Hurt Locker,     SFC William James,     False
+2015,     (88th) best actor,     Leonardo DiCaprio,     The Revenant,     Hugh Glass,     True
+2015,     (88th) best actor,     Bryan Cranston,     Trumbo,     Dalton Trumbo,     False
+2015,     (88th) best actor,     Matt Damon,     The Martian,     Mark Watney,     False
+2015,     (88th) best actor,     Michael Fassbender,     Steve Jobs,     Steve Jobs,     False
+2015,     (88th) best actor,     Eddie Redmayne,     The Danish Girl,     Lili Elbe,     False
+1978,     (51st) best actress,     Jane Fonda,     Coming Home,     Sally Hyde,     True
+1978,     (51st) best actress,     Ingrid Bergman,     Autumn Sonata,     Charlotte Andergast,     False
+1978,     (51st) best actress,     Ellen Burstyn,     Same Time, Next Year,     Doris,     False
+1978,     (51st) best actress,     Jill Clayburgh,     An Unmarried Woman,     Erica Benton,     False
+1978,     (51st) best actress,     Geraldine Page,     Interiors,     Eve,     False
+1956,     (29th) best actress,     Ingrid Bergman ,     Anastasia,     Anna Koreff / Anastasia,     True
+1956,     (29th) best actress,     Carroll Baker,     Baby Doll,     Baby Doll Meighan,     False
+1956,     (29th) best actress,     Katharine Hepburn,     The Rainmaker,     Lizzie Curry,     False
+1956,     (29th) best actress,     Nancy Kelly,     The Bad Seed,     Christine Penmark,     False
+1956,     (29th) best actress,     Deborah Kerr,     The King and I,     Anna Leonowens,     False
+1971,     (44th) best actress,     Jane Fonda,     Klute,     Bree Daniels,     True
+1971,     (44th) best actress,     Julie Christie,     McCabe & Mrs. Miller,     Constance Miller,     False
+1971,     (44th) best actress,     Glenda Jackson,     Sunday Bloody Sunday,     Alex Greville,     False
+1971,     (44th) best actress,     Vanessa Redgrave,     Mary, Queen of Scots,     Mary, Queen of Scots,     False
+1971,     (44th) best actress,     Janet Suzman,     Nicholas and Alexandra,     Empress Alexandra of Russia,     False
+1991,     (64th) best actress,     Jodie Foster,     The Silence of the Lambs,     Clarice Starling,     True
+1991,     (64th) best actress,     Geena Davis,     Thelma & Louise,     Thelma Dickinson,     False
+1991,     (64th) best actress,     Laura Dern,     Rambling Rose,     Rose,     False
+1991,     (64th) best actress,     Bette Midler,     For the Boys,     Dixie Leonard,     False
+1991,     (64th) best actress,     Susan Sarandon,     Thelma & Louise,     Louise Sawyer,     False
+2000,     (73rd) best actress,     Julia Roberts ,     Erin Brockovich,     Erin Brockovich,     True
+2000,     (73rd) best actress,     Joan Allen,     The Contender,     Laine Hanson,     False
+2000,     (73rd) best actress,     Juliette Binoche,     Chocolat,     Vianne Rocher,     False
+2000,     (73rd) best actress,     Ellen Burstyn,     Requiem for a Dream,     Sara Goldfarb,     False
+2000,     (73rd) best actress,     Laura Linney,     You Can Count on Me,     Sammy Prescott,     False
+1989,     (62nd) best actress,     Jessica Tandy,     Driving Miss Daisy,     Daisy Werthan,     True
+1989,     (62nd) best actress,     Isabelle Adjani,     Camille Claudel,     Camille Claudel,     False
+1989,     (62nd) best actress,     Pauline Collins,     Shirley Valentine,     Shirley Valentine-Bradshaw,     False
+1989,     (62nd) best actress,     Jessica Lange,     Music Box,     Ann Talbot,     False
+1989,     (62nd) best actress,     Michelle Pfeiffer,     The Fabulous Baker Boys,     Susie Diamond,     False
+2005,     (78th) best actress,     Reese Witherspoon,     Walk the Line,     June Carter Cash,     True
+2005,     (78th) best actress,     Judi Dench,     Mrs Henderson Presents,     Laura Forster-Henderson,     False
+2005,     (78th) best actress,     Felicity Huffman,     Transamerica,     Sabrina "Bree" Osbourne,     False
+2005,     (78th) best actress,     Keira Knightley,     Pride & Prejudice,     Elizabeth Bennet,     False
+2005,     (78th) best actress,     Charlize Theron,     North Country,     Josey Aimes,     False
+1994,     (67th) best actress,     Jessica Lange,     Blue Sky,     Carly Marshall,     True
+1994,     (67th) best actress,     Jodie Foster,     Nell,     Nell Kellty,     False
+1994,     (67th) best actress,     Miranda Richardson,     Tom & Viv,     Vivienne Haigh-Wood,     False
+1994,     (67th) best actress,     Winona Ryder,     Little Women,     Josephine "Jo" March,     False
+1994,     (67th) best actress,     Susan Sarandon,     The Client,     Reggie Love,     False
+1982,     (55th) best actress,     Meryl Streep,     Sophie's Choice,     Sophie Zawistowska,     True
+1982,     (55th) best actress,     Julie Andrews,     Victor Victoria,     Victor Grazinski / Victoria Grant,     False
+1982,     (55th) best actress,     Jessica Lange,     Frances,     Frances Farmer,     False
+1982,     (55th) best actress,     Sissy Spacek,     Missing,     Beth Horman,     False
+1982,     (55th) best actress,     Debra Winger,     An Officer and a Gentleman,     Paula Pokrifki,     False
+2007,     (80th) best actress,     Marion Cotillard,     La Vie en rose,     Édith Piaf,     True
+2007,     (80th) best actress,     Cate Blanchett,     Elizabeth: The Golden Age,     Queen Elizabeth I of England,     False
+2007,     (80th) best actress,     Julie Christie,     Away from Her,     Fiona Anderson,     False
+2007,     (80th) best actress,     Laura Linney,     The Savages,     Wendy Savage,     False
+2007,     (80th) best actress,     Ellen Page,     Juno,     Juno MacGuff,     False
+2003,     (76th) best actress,     Charlize Theron,     Monster,     Aileen Wuornos,     True
+2003,     (76th) best actress,     Keisha Castle-Hughes,     Whale Rider,     Paikea Apirana,     False
+2003,     (76th) best actress,     Diane Keaton,     Something's Gotta Give,     Erika Berry,     False
+2003,     (76th) best actress,     Samantha Morton,     In America,     Sarah Sullivan,     False
+2003,     (76th) best actress,     Naomi Watts,     21 Grams,     Cristina Williams-Peck,     False
+1960,     (33rd) best actress,     Elizabeth Taylor,     BUtterfield 8,     Gloria Wandrous,     True
+1960,     (33rd) best actress,     Greer Garson,     Sunrise at Campobello,     Eleanor Roosevelt,     False
+1960,     (33rd) best actress,     Deborah Kerr,     The Sundowners,     Ida Carmody,     False
+1960,     (33rd) best actress,     Shirley MacLaine,     The Apartment,     Fran Kubelik,     False
+1960,     (33rd) best actress,     Melina Mercouri,     Never on Sunday,     Ilya,     False
+1999,     (72nd) best actress,     Hilary Swank,     Boys Don't Cry,     Brandon Teena,     True
+1999,     (72nd) best actress,     Annette Bening,     American Beauty,     Carolyn Burnham,     False
+1999,     (72nd) best actress,     Janet McTeer,     Tumbleweeds,     Mary Jo Walker,     False
+1999,     (72nd) best actress,     Julianne Moore,     The End of the Affair,     Sarah Miles,     False
+1999,     (72nd) best actress,     Meryl Streep,     Music of the Heart,     Roberta Guaspari,     False
+1990,     (63rd) best actress,     Kathy Bates,     Misery,     Annie Wilkes,     True
+1990,     (63rd) best actress,     Anjelica Huston,     The Grifters,     Lilly Dillon,     False
+1990,     (63rd) best actress,     Julia Roberts,     Pretty Woman,     Vivian Ward,     False
+1990,     (63rd) best actress,     Meryl Streep,     Postcards from the Edge,     Suzanne Vale,     False
+1990,     (63rd) best actress,     Joanne Woodward,     Mr. & Mrs. Bridge,     India Bridge,     False
+2014,     (87th) best actress,     Julianne Moore,     Still Alice,     Alice Howland,     True
+2014,     (87th) best actress,     Marion Cotillard,     Two Days, One Night,     Sandra Bya,     False
+2014,     (87th) best actress,     Felicity Jones,     The Theory of Everything,     Jane Wilde-Hawking,     False
+2014,     (87th) best actress,     Rosamund Pike,     Gone Girl,     Amy Elliott-Dunne,     False
+2014,     (87th) best actress,     Reese Witherspoon,     Wild,     Cheryl Strayed,     False
+2001,     (74th) best actress,     Halle Berry,     Monster's Ball,     Leticia Musgrove,     True
+2001,     (74th) best actress,     Judi Dench,     Iris,     Iris Murdoch,     False
+2001,     (74th) best actress,     Nicole Kidman,     Moulin Rouge!,     Satine,     False
+2001,     (74th) best actress,     Sissy Spacek,     In the Bedroom,     Ruth Fowler,     False
+2001,     (74th) best actress,     Renée Zellweger,     Bridget Jones's Diary,     Bridget Jones,     False
+1957,     (30th) best actress,     Joanne Woodward,     The Three Faces of Eve,     Eve White / Eve Black / Jane,     True
+1957,     (30th) best actress,     Deborah Kerr,     Heaven Knows, Mr. Allison,     Angela,     False
+1957,     (30th) best actress,     Anna Magnani,     Wild Is the Wind,     Gioia,     False
+1957,     (30th) best actress,     Elizabeth Taylor,     Raintree County,     Susanna Drake,     False
+1957,     (30th) best actress,     Lana Turner,     Peyton Place,     Constance MacKenzie,     False
+2008,     (81st) best actress,     Kate Winslet,     The Reader,     Hanna Schmitz,     True
+2008,     (81st) best actress,     Anne Hathaway,     Rachel Getting Married,     Kym Buchman,     False
+2008,     (81st) best actress,     Angelina Jolie,     Changeling,     Christine Collins,     False
+2008,     (81st) best actress,     Melissa Leo,     Frozen River,     Ray Eddy,     False
+2008,     (81st) best actress,     Meryl Streep,     Doubt,     Aloysius Beauvier,     False
+1985,     (58th) best actress,     Geraldine Page,     The Trip to Bountiful,     Carrie Watts,     True
+1985,     (58th) best actress,     Anne Bancroft,     Agnes of God,     Miriam Ruth,     False
+1985,     (58th) best actress,     Whoopi Goldberg,     The Color Purple,     Celie Harris-Johnson,     False
+1985,     (58th) best actress,     Jessica Lange,     Sweet Dreams,     Patsy Cline,     False
+1985,     (58th) best actress,     Meryl Streep,     Out of Africa,     Karen Blixen,     False
+1974,     (47th) best actress,     Ellen Burstyn,     Alice Doesn't Live Here Anymore,     Alice Graham-Hyatt,     True
+1974,     (47th) best actress,     Diahann Carroll,     Claudine,     Claudine Price,     False
+1974,     (47th) best actress,     Faye Dunaway,     Chinatown,     Evelyn Cross Mulwray,     False
+1974,     (47th) best actress,     Valerie Perrine,     Lenny,     Harriett Jolliff / Honey Bruce,     False
+1974,     (47th) best actress,     Gena Rowlands,     A Woman Under the Influence,     Mabel Longhetti,     False
+1975,     (48th) best actress,     Louise Fletcher,     One Flew Over the Cuckoo's Nest,     Nurse Mildred Ratched,     True
+1975,     (48th) best actress,     Isabelle Adjani,     The Story of Adele H.,     Adèle Hugo / Adèle Lewly,     False
+1975,     (48th) best actress,     Ann-Margret,     Tommy,     Nora Walker,     False
+1975,     (48th) best actress,     Glenda Jackson,     Hedda,     Hedda Gabler-Tesman,     False
+1975,     (48th) best actress,     Carol Kane,     Hester Street,     Gitl,     False
+2013,     (86th) best actress,     Cate Blanchett,     Blue Jasmine,     Jeanette "Jasmine" Francis,     True
+2013,     (86th) best actress,     Amy Adams,     American Hustle,     Sydney Prosser,     False
+2013,     (86th) best actress,     Sandra Bullock,     Gravity,     Ryan Stone,     False
+2013,     (86th) best actress,     Judi Dench,     Philomena,     Philomena Lee,     False
+2013,     (86th) best actress,     Meryl Streep,     August: Osage County,     Violet Weston,     False
+1993,     (66th) best actress,     Holly Hunter,     The Piano,     Ada McGrath,     True
+1993,     (66th) best actress,     Angela Bassett,     What's Love Got to Do with It,     Anna Mae Bullock / Tina Turner,     False
+1993,     (66th) best actress,     Stockard Channing,     Six Degrees of Separation,     Ouisa Kittredge,     False
+1993,     (66th) best actress,     Emma Thompson,     The Remains of the Day,     Sarah "Sally" Kenton,     False
+1993,     (66th) best actress,     Debra Winger,     Shadowlands,     Joy Davidman,     False
+1973,     (46th) best actress,     Glenda Jackson,     A Touch of Class,     Vicki Allessio,     True
+1973,     (46th) best actress,     Ellen Burstyn,     The Exorcist,     Chris MacNeil,     False
+1973,     (46th) best actress,     Marsha Mason,     Cinderella Liberty,     Maggie Paul,     False
+1973,     (46th) best actress,     Barbra Streisand,     The Way We Were,     Katie Morosky,     False
+1973,     (46th) best actress,     Joanne Woodward,     Summer Wishes, Winter Dreams,     Rita Walden,     False
+1966,     (39th) best actress,     Elizabeth Taylor,     Who's Afraid of Virginia Woolf?,     Martha,     True
+1966,     (39th) best actress,     Anouk Aimée,     A Man and a Woman,     Anne Gauthier,     False
+1966,     (39th) best actress,     Ida Kamińska,     The Shop on Main Street,     Rozalie Lautmann,     False
+1966,     (39th) best actress,     Lynn Redgrave,     Georgy Girl,     Georgina 'Georgy' Parkin,     False
+1966,     (39th) best actress,     Vanessa Redgrave,     Morgan!,     Leonie Delt,     False
+1983,     (56th) best actress,     Shirley MacLaine,     Terms of Endearment,     Aurora Greenway,     True
+1983,     (56th) best actress,     Jane Alexander,     Testament,     Carol Wetherly,     False
+1983,     (56th) best actress,     Meryl Streep,     Silkwood,     Karen Silkwood,     False
+1983,     (56th) best actress,     Julie Walters,     Educating Rita,     Susan White / Rita,     False
+1983,     (56th) best actress,     Debra Winger,     Terms of Endearment,     Emma Greenway Horton,     False
+1965,     (38th) best actress,     Julie Christie,     Darling,     Diana Scott,     True
+1965,     (38th) best actress,     Julie Andrews,     The Sound of Music,     Maria von Trapp,     False
+1965,     (38th) best actress,     Samantha Eggar,     The Collector,     Miranda Grey,     False
+1965,     (38th) best actress,     Elizabeth Hartman,     A Patch of Blue,     Selina D'Arcy,     False
+1965,     (38th) best actress,     Simone Signoret,     Ship of Fools,     La Contessa,     False
+1972,     (45th) best actress,     Liza Minnelli,     Cabaret,     Sally Bowles,     True
+1972,     (45th) best actress,     Diana Ross,     Lady Sings the Blues,     Billie Holiday,     False
+1972,     (45th) best actress,     Maggie Smith,     Travels with My Aunt,     Augusta Bertram,     False
+1972,     (45th) best actress,     Cicely Tyson,     Sounder,     Rebecca Morgan,     False
+1972,     (45th) best actress,     Liv Ullmann,     The Emigrants,     Kristina Nilsson,     False
+1968,     (41st) best actress,     Katharine Hepburn,     The Lion in Winter,     Eleanor of Aquitaine,     True
+1968,     (41st) best actress,     Barbra Streisand,     Funny Girl,     Fanny Brice,     True
+1968,     (41st) best actress,     Patricia Neal,     The Subject was Roses,     Nettie Cleary,     False
+1968,     (41st) best actress,     Vanessa Redgrave,     Isadora,     Isadora Duncan,     False
+1968,     (41st) best actress,     Joanne Woodward,     Rachel, Rachel,     Rachel Cameron,     False
+1981,     (54th) best actress,     Katharine Hepburn,     On Golden Pond,     Ethel Thayer,     True
+1981,     (54th) best actress,     Diane Keaton,     Reds,     Louise Bryant,     False
+1981,     (54th) best actress,     Marsha Mason,     Only When I Laugh,     Georgia Hines,     False
+1981,     (54th) best actress,     Susan Sarandon,     Atlantic City,     Sally Matthews,     False
+1981,     (54th) best actress,     Meryl Streep,     The French Lieutenant's Woman,     Anna / Sara Woodruff,     False
+1977,     (50th) best actress,     Diane Keaton,     Annie Hall,     Annie Hall,     True
+1977,     (50th) best actress,     Anne Bancroft,     The Turning Point,     Emma Jacklin,     False
+1977,     (50th) best actress,     Jane Fonda,     Julia,     Lillian Hellman,     False
+1977,     (50th) best actress,     Shirley MacLaine,     The Turning Point,     Deedee Rodgers,     False
+1977,     (50th) best actress,     Marsha Mason,     The Goodbye Girl,     Paula McFadden,     False
+1997,     (70th) best actress,     Helen Hunt,     As Good as It Gets,     Carol Connelly,     True
+1997,     (70th) best actress,     Helena Bonham Carter,     The Wings of the Dove,     Kate Croy,     False
+1997,     (70th) best actress,     Julie Christie,     Afterglow,     Phyllis Mann,     False
+1997,     (70th) best actress,     Judi Dench,     Mrs Brown,     Queen Victoria,     False
+1997,     (70th) best actress,     Kate Winslet,     Titanic,     Rose DeWitt Bukater,     False
+1949,     (22nd) best actress,     Olivia de Havilland,     The Heiress,     Catherine Sloper,     True
+1949,     (22nd) best actress,     Jeanne Crain,     Pinky,     Patricia 'Pinky' Johnson,     False
+1949,     (22nd) best actress,     Susan Hayward,     My Foolish Heart,     Eloise Winters,     False
+1949,     (22nd) best actress,     Deborah Kerr,     Edward, My Son,     Evelyn Boult,     False
+1949,     (22nd) best actress,     Loretta Young,     Come to the Stable,     Margaret,     False
+2011,     (84th) best actress,     Meryl Streep,     The Iron Lady,     Margaret Thatcher,     True
+2011,     (84th) best actress,     Glenn Close,     Albert Nobbs,     Albert Nobbs,     False
+2011,     (84th) best actress,     Viola Davis,     The Help,     Aibileen Clark,     False
+2011,     (84th) best actress,     Rooney Mara,     The Girl with the Dragon Tattoo,     Lisbeth Salander,     False
+2011,     (84th) best actress,     Michelle Williams,     My Week with Marilyn,     Marilyn Monroe,     False
+1948,     (21st) best actress,     Jane Wyman,     Johnny Belinda,     Belinda McDonald,     True
+1948,     (21st) best actress,     Ingrid Bergman,     Joan of Arc,     Joan of Arc,     False
+1948,     (21st) best actress,     Olivia de Havilland,     The Snake Pit,     Virginia Stuart Cunningham,     False
+1948,     (21st) best actress,     Irene Dunne,     I Remember Mama,     Martha Hanson,     False
+1948,     (21st) best actress,     Barbara Stanwyck,     Sorry, Wrong Number,     Leona Stevenson,     False
+1950,     (23rd) best actress,     Judy Holliday,     Born Yesterday,     Emma 'Billie' Dawn,     True
+1950,     (23rd) best actress,     Anne Baxter,     All About Eve,     Eve Harrington,     False
+1950,     (23rd) best actress,     Bette Davis,     All About Eve,     Margo Channing,     False
+1950,     (23rd) best actress,     Eleanor Parker,     Caged,     Marie Allen,     False
+1950,     (23rd) best actress,     Gloria Swanson,     Sunset Boulevard,     Norma Desmond,     False
+1979,     (52nd) best actress,     Sally Field,     Norma Rae,     Norma Rae Webster,     True
+1979,     (52nd) best actress,     Jill Clayburgh,     Starting Over,     Marilyn Holmberg,     False
+1979,     (52nd) best actress,     Jane Fonda,     The China Syndrome,     Kimberly Wells,     False
+1979,     (52nd) best actress,     Marsha Mason,     Chapter Two,     Jennie MacLaine,     False
+1979,     (52nd) best actress,     Bette Midler,     The Rose,     Mary Rose Foster,     False
+1980,     (53rd) best actress,     Sissy Spacek,     Coal Miner's Daughter,     Loretta Lynn,     True
+1980,     (53rd) best actress,     Ellen Burstyn,     Resurrection,     Edna Mae Harper-McCauley,     False
+1980,     (53rd) best actress,     Goldie Hawn,     Private Benjamin,     Judy Benjamin,     False
+1980,     (53rd) best actress,     Mary Tyler Moore,     Ordinary People,     Beth Jarrett,     False
+1980,     (53rd) best actress,     Gena Rowlands,     Gloria,     Gloria Swenson,     False
+1947,     (20th) best actress,     Loretta Young,     The Farmer's Daughter,     Katie Holstrom,     True
+1947,     (20th) best actress,     Joan Crawford,     Possessed,     Louise Howell,     False
+1947,     (20th) best actress,     Susan Hayward,     Smash-Up, the Story of a Woman,     Angelica Evans Conway,     False
+1947,     (20th) best actress,     Dorothy McGuire,     Gentleman's Agreement,     Kathy Lacy,     False
+1947,     (20th) best actress,     Rosalind Russell,     Mourning Becomes Electra,     Lavinia Mannon,     False
+1967,     (40th) best actress,     Katharine Hepburn,     Guess Who's Coming to Dinner,     Christina Drayton,     True
+1967,     (40th) best actress,     Anne Bancroft,     The Graduate,     Mrs. Robinson,     False
+1967,     (40th) best actress,     Faye Dunaway,     Bonnie and Clyde,     Bonnie Parker,     False
+1967,     (40th) best actress,     Edith Evans,     The Whisperers,     Maggie Ross,     False
+1967,     (40th) best actress,     Audrey Hepburn,     Wait Until Dark,     Susy Hendrix,     False
+1951,     (24th) best actress,     Vivien Leigh,     A Streetcar Named Desire,     Blanche DuBois,     True
+1951,     (24th) best actress,     Katharine Hepburn,     The African Queen,     Rose Sayer,     False
+1951,     (24th) best actress,     Eleanor Parker,     Detective Story,     Mary McLeod,     False
+1951,     (24th) best actress,     Shelley Winters,     A Place in the Sun,     Alice Tripp,     False
+1951,     (24th) best actress,     Jane Wyman,     The Blue Veil,     Louise Mason,     False
+2010,     (83rd) best actress,     Natalie Portman,     Black Swan,     Nina Sayers,     True
+2010,     (83rd) best actress,     Annette Bening,     The Kids Are All Right,     Nicole "Nic" Allgood,     False
+2010,     (83rd) best actress,     Nicole Kidman,     Rabbit Hole,     Becca Corbett,     False
+2010,     (83rd) best actress,     Jennifer Lawrence,     Winter's Bone,     Ree Dolly,     False
+2010,     (83rd) best actress,     Michelle Williams,     Blue Valentine,     Cynthia "Cindy" Heller,     False
+1955,     (28th) best actress,     Anna Magnani,     The Rose Tattoo,     Serafina Delle Rose,     True
+1955,     (28th) best actress,     Susan Hayward,     I'll Cry Tomorrow,     Lillian Roth,     False
+1955,     (28th) best actress,     Katharine Hepburn,     Summertime,     Jane Hudson,     False
+1955,     (28th) best actress,     Jennifer Jones,     Love is a Many-Splendored Thing,     Han Suyin,     False
+1955,     (28th) best actress,     Eleanor Parker,     Interrupted Melody,     Marjorie Lawrence,     False
+2006,     (79th) best actress,     Helen Mirren,     The Queen,     Queen Elizabeth II,     True
+2006,     (79th) best actress,     Penélope Cruz,     Volver,     Raimunda,     False
+2006,     (79th) best actress,     Judi Dench,     Notes on a Scandal,     Barbara Covett,     False
+2006,     (79th) best actress,     Meryl Streep,     The Devil Wears Prada,     Miranda Priestly,     False
+2006,     (79th) best actress,     Kate Winslet,     Little Children,     Sarah Pierce,     False
+2012,     (85th) best actress,     Jennifer Lawrence,     Silver Linings Playbook,     Tiffany Maxwell,     True
+2012,     (85th) best actress,     Jessica Chastain,     Zero Dark Thirty,     Maya,     False
+2012,     (85th) best actress,     Emmanuelle Riva,     Amour,     Anne Laurent,     False
+2012,     (85th) best actress,     Quvenzhané Wallis,     Beasts of the Southern Wild,     Hushpuppy,     False
+2012,     (85th) best actress,     Naomi Watts,     The Impossible,     Maria Bennett,     False
+1958,     (31st) best actress,     Susan Hayward,     I Want to Live!,     Barbara Graham,     True
+1958,     (31st) best actress,     Deborah Kerr,     Separate Tables,     Sibyl Railton-Bell,     False
+1958,     (31st) best actress,     Shirley MacLaine,     Some Came Running,     Ginnie Moorehead,     False
+1958,     (31st) best actress,     Rosalind Russell,     Auntie Mame,     Mame Dennis,     False
+1958,     (31st) best actress,     Elizabeth Taylor,     Cat on a Hot Tin Roof,     Margaret "Maggie the Cat" Pollitt,     False
+1988,     (61st) best actress,     Jodie Foster,     The Accused,     Sarah Tobias,     True
+1988,     (61st) best actress,     Glenn Close,     Dangerous Liaisons,     Marquise Isabelle de Merteuil,     False
+1988,     (61st) best actress,     Melanie Griffith,     Working Girl,     Tess McGill,     False
+1988,     (61st) best actress,     Meryl Streep,     A Cry in the Dark,     Lindy Chamberlain-Creighton,     False
+1988,     (61st) best actress,     Sigourney Weaver,     Gorillas in the Mist,     Dian Fossey,     False
+1946,     (19th) best actress,     Olivia de Havilland,     To Each His Own,     Josephine 'Jody' Norris,     True
+1946,     (19th) best actress,     Celia Johnson,     Brief Encounter,     Laura Jesson,     False
+1946,     (19th) best actress,     Jennifer Jones,     Duel in the Sun,     Pearl Chavez,     False
+1946,     (19th) best actress,     Rosalind Russell,     Sister Kenny,     Elizabeth Kenny,     False
+1946,     (19th) best actress,     Jane Wyman,     The Yearling,     Orry Baxter,     False
+1970,     (43rd) best actress,     Glenda Jackson,     Women in Love,     Gudrun Brangwen,     True
+1970,     (43rd) best actress,     Jane Alexander,     The Great White Hope,     Eleanor Backman,     False
+1970,     (43rd) best actress,     Ali MacGraw,     Love Story,     Jennifer Cavalleri-Barrett,     False
+1970,     (43rd) best actress,     Sarah Miles,     Ryan's Daughter,     Rosy Ryan,     False
+1970,     (43rd) best actress,     Carrie Snodgress,     Diary of a Mad Housewife,     Bettina "Tina" Balser,     False
+2004,     (77th) best actress,     Hilary Swank,     Million Dollar Baby,     Margaret "Maggie" Fitzgerald,     True
+2004,     (77th) best actress,     Annette Bening,     Being Julia,     Julia Lambert,     False
+2004,     (77th) best actress,     Catalina Sandino Moreno,     Maria Full of Grace,     María Álvarez,     False
+2004,     (77th) best actress,     Imelda Staunton,     Vera Drake,     Vera Rose Drake,     False
+2004,     (77th) best actress,     Kate Winslet,     Eternal Sunshine of the Spotless Mind,     Clementine Kruczynski,     False
+2002,     (75th) best actress,     Nicole Kidman,     The Hours,     Virginia Woolf,     True
+2002,     (75th) best actress,     Salma Hayek,     Frida,     Frida Kahlo,     False
+2002,     (75th) best actress,     Diane Lane,     Unfaithful,     Constance 'Connie' Sumner,     False
+2002,     (75th) best actress,     Julianne Moore,     Far from Heaven,     Cathy Whitaker,     False
+2002,     (75th) best actress,     Renée Zellweger,     Chicago,     Roxie Hart,     False
+1976,     (49th) best actress,     Faye Dunaway,     Network,     Diana Christensen,     True
+1976,     (49th) best actress,     Marie-Christine Barrault,     Cousin Cousine,     Marthe,     False
+1976,     (49th) best actress,     Talia Shire,     Rocky,     Adrian Pennino,     False
+1976,     (49th) best actress,     Sissy Spacek,     Carrie,     Carrie White,     False
+1976,     (49th) best actress,     Liv Ullmann,     Face to Face,     Jenny Isaksson,     False
+1961,     (34th) best actress,     Sophia Loren,     Two Women,     Cesira,     True
+1961,     (34th) best actress,     Audrey Hepburn,     Breakfast at Tiffany's,     Holly Golightly / Lula Mae Barnes,     False
+1961,     (34th) best actress,     Piper Laurie,     The Hustler,     Sarah Packard,     False
+1961,     (34th) best actress,     Geraldine Page,     Summer and Smoke,     Alma Winemiller,     False
+1961,     (34th) best actress,     Natalie Wood,     Splendor in the Grass,     Wilma Dean 'Deanie' Loomis,     False
+1998,     (71st) best actress,     Gwyneth Paltrow,     Shakespeare in Love,     Viola de Lesseps/Thomas Kent,     True
+1998,     (71st) best actress,     Cate Blanchett,     Elizabeth,     Queen Elizabeth I of England,     False
+1998,     (71st) best actress,     Fernanda Montenegro,     Central Station,     Isadora "Dora" Teixeira,     False
+1998,     (71st) best actress,     Meryl Streep,     One True Thing,     Kate Gulden,     False
+1998,     (71st) best actress,     Emily Watson,     Hilary and Jackie,     Jacqueline du Pré,     False
+1945,     (18th) best actress,     Joan Crawford,     Mildred Pierce,     Mildred Pierce Beragon,     True
+1945,     (18th) best actress,     Ingrid Bergman,     The Bells of St. Mary's,     Mary Benedict,     False
+1945,     (18th) best actress,     Greer Garson,     The Valley of Decision,     Mary Rafferty,     False
+1945,     (18th) best actress,     Jennifer Jones,     Love Letters,     Singleton,     False
+1945,     (18th) best actress,     Gene Tierney,     Leave Her to Heaven,     Ellen Berent Harland,     False
+1963,     (36th) best actress,     Patricia Neal,     Hud,     Alma Brown,     True
+1963,     (36th) best actress,     Leslie Caron,     The L-Shaped Room,     Jane Fossett,     False
+1963,     (36th) best actress,     Shirley MacLaine,     Irma la Douce,     Irma La Douce,     False
+1963,     (36th) best actress,     Rachel Roberts,     This Sporting Life,     Margaret Hammond,     False
+1963,     (36th) best actress,     Natalie Wood,     Love with the Proper Stranger,     Angie Rossini,     False
+1959,     (32nd) best actress,     Simone Signoret,     Room at the Top,     Alice Aisgill,     True
+1959,     (32nd) best actress,     Doris Day,     Pillow Talk,     Jan Morrow,     False
+1959,     (32nd) best actress,     Audrey Hepburn,     The Nun's Story,     Gabrielle van der Mal,     False
+1959,     (32nd) best actress,     Katharine Hepburn,     Suddenly, Last Summer,     Violet Venable,     False
+1959,     (32nd) best actress,     Elizabeth Taylor,     Suddenly, Last Summer,     Catherine Holly,     False
+1952,     (25th) best actress,     Shirley Booth,     Come Back, Little Sheba,     Lola Delaney,     True
+1952,     (25th) best actress,     Joan Crawford,     Sudden Fear,     Myra Hudson,     False
+1952,     (25th) best actress,     Bette Davis,     The Star,     Margaret Elliot,     False
+1952,     (25th) best actress,     Julie Harris,     The Member of the Wedding,     Frances 'Frankie' Addams,     False
+1952,     (25th) best actress,     Susan Hayward,     With a Song in My Heart,     Jane Froman,     False
+1969,     (42nd) best actress,     Maggie Smith,     The Prime of Miss Jean Brodie,     Jean Brodie,     True
+1969,     (42nd) best actress,     Geneviève Bujold,     Anne of the Thousand Days,     Anne Boleyn,     False
+1969,     (42nd) best actress,     Jane Fonda,     They Shoot Horses, Don't They?,     Gloria Beatty,     False
+1969,     (42nd) best actress,     Liza Minnelli,     The Sterile Cuckoo,     Mary Ann 'Pookie' Adams,     False
+1969,     (42nd) best actress,     Jean Simmons,     The Happy Ending,     Mary Wilson,     False
+1962,     (35th) best actress,     Anne Bancroft,     The Miracle Worker,     Annie Sullivan,     True
+1962,     (35th) best actress,     Bette Davis,     What Ever Happened to Baby Jane?,     Baby Jane Hudson,     False
+1962,     (35th) best actress,     Katharine Hepburn,     Long Day's Journey into Night,     Mary Cavan Tyrone,     False
+1962,     (35th) best actress,     Geraldine Page,     Sweet Bird of Youth,     Alexandra Del Lago,     False
+1962,     (35th) best actress,     Lee Remick,     Days of Wine and Roses,     Kirsten Arnesen Clay,     False
+1986,     (59th) best actress,     Marlee Matlin,     Children of a Lesser God,     Sarah Norman,     True
+1986,     (59th) best actress,     Jane Fonda,     The Morning After,     Alex Sternbergen,     False
+1986,     (59th) best actress,     Sissy Spacek,     Crimes of the Heart,     Babe Magrath,     False
+1986,     (59th) best actress,     Kathleen Turner,     Peggy Sue Got Married,     Peggy Sue Bodell,     False
+1986,     (59th) best actress,     Sigourney Weaver,     Aliens,     Ellen Ripley,     False
+1964,     (37th) best actress,     Julie Andrews,     Mary Poppins,     Mary Poppins,     True
+1964,     (37th) best actress,     Anne Bancroft,     The Pumpkin Eater,     Jo Armitage,     False
+1964,     (37th) best actress,     Sophia Loren,     Marriage Italian Style,     Filumena Marturano,     False
+1964,     (37th) best actress,     Debbie Reynolds,     The Unsinkable Molly Brown,     Molly Brown,     False
+1964,     (37th) best actress,     Kim Stanley,     Séance on a Wet Afternoon,     Myra Savage,     False
+1954,     (27th) best actress,     Grace Kelly,     The Country Girl,     Georgie Elgin,     True
+1954,     (27th) best actress,     Dorothy Dandridge,     Carmen Jones,     Carmen Jones,     False
+1954,     (27th) best actress,     Judy Garland,     A Star Is Born,     Esther Victoria Blodgett / Vicki Lester,     False
+1954,     (27th) best actress,     Audrey Hepburn,     Sabrina,     Sabrina Fairchild,     False
+1954,     (27th) best actress,     Jane Wyman,     Magnificent Obsession,     Helen Phillips,     False
+1984,     (57th) best actress,     Sally Field,     Places in the Heart,     Edna Spalding,     True
+1984,     (57th) best actress,     Judy Davis,     A Passage to India,     Adela Quested,     False
+1984,     (57th) best actress,     Jessica Lange,     Country,     Jewell Ivy,     False
+1984,     (57th) best actress,     Vanessa Redgrave,     The Bostonians,     Olive Chancellor,     False
+1984,     (57th) best actress,     Sissy Spacek,     The River,     Mae Garvey,     False
+1996,     (69th) best actress,     Frances McDormand,     Fargo,     Marge Gunderson,     True
+1996,     (69th) best actress,     Brenda Blethyn,     Secrets & Lies,     Cynthia Rose Purley,     False
+1996,     (69th) best actress,     Diane Keaton,     Marvin's Room,     Bessie Wakefield,     False
+1996,     (69th) best actress,     Kristin Scott Thomas,     The English Patient,     Katharine Clifton,     False
+1996,     (69th) best actress,     Emily Watson,     Breaking the Waves,     Bess McNeill,     False
+1995,     (68th) best actress,     Susan Sarandon,     Dead Man Walking,     Helen Prejean,     True
+1995,     (68th) best actress,     Elisabeth Shue,     Leaving Las Vegas,     Sera,     False
+1995,     (68th) best actress,     Sharon Stone,     Casino,     Ginger McKenna,     False
+1995,     (68th) best actress,     Meryl Streep,     The Bridges of Madison County,     Francesca Johnson,     False
+1995,     (68th) best actress,     Emma Thompson,     Sense and Sensibility,     Elinor Dashwood,     False
+1987,     (60th) best actress,     Cher,     Moonstruck,     Loretta Castorini,     True
+1987,     (60th) best actress,     Glenn Close,     Fatal Attraction,     Alex Forrest,     False
+1987,     (60th) best actress,     Holly Hunter,     Broadcast News,     Jane Craig,     False
+1987,     (60th) best actress,     Sally Kirkland,     Anna,     Anna,     False
+1987,     (60th) best actress,     Meryl Streep,     Ironweed,     Helen Archer,     False
+1992,     (65th) best actress,     Emma Thompson,     Howards End,     Margaret Schlegel,     True
+1992,     (65th) best actress,     Catherine Deneuve,     Indochine,     Eliane Devries,     False
+1992,     (65th) best actress,     Mary McDonnell,     Passion Fish,     May-Alice Culhane,     False
+1992,     (65th) best actress,     Michelle Pfeiffer,     Love Field,     Lurene Hallett,     False
+1992,     (65th) best actress,     Susan Sarandon,     Lorenzo's Oil,     Michaela Murphy Odone,     False
+1953,     (26th) best actress,     Audrey Hepburn,     Roman Holiday,     Princess Ann,     True
+1953,     (26th) best actress,     Leslie Caron,     Lili,     Lili Daurier,     False
+1953,     (26th) best actress,     Ava Gardner,     Mogambo,     Eloise "Honey Bear" Kelly,     False
+1953,     (26th) best actress,     Deborah Kerr,     From Here to Eternity,     Karen Holmes,     False
+1953,     (26th) best actress,     Maggie McNamara,     The Moon Is Blue,     Patty O'Neill,     False
+2009,     (82nd) best actress,     Sandra Bullock,     The Blind Side,     Leigh Anne Tuohy,     True
+2009,     (82nd) best actress,     Helen Mirren,     The Last Station,     Sophia Tolstaya,     False
+2009,     (82nd) best actress,     Carey Mulligan,     An Education,     Jenny Mellor,     False
+2009,     (82nd) best actress,     Gabourey Sidibe,     Precious,     Claireece "Precious" Jones,     False
+2009,     (82nd) best actress,     Meryl Streep,     Julie & Julia,     Julia Child,     False
+2015,     (88th) best actress,     Brie Larson,     Room,     Joy "Ma" Newsome,     True
+2015,     (88th) best actress,     Cate Blanchett,     Carol,     Carol Aird,     False
+2015,     (88th) best actress,     Jennifer Lawrence,     Joy,     Joy Mangano,     False
+2015,     (88th) best actress,     Charlotte Rampling,     45 Years,     Kate Mercer,     False
+2015,     (88th) best actress,     Saoirse Ronan,     Brooklyn,     Eilis Lacey,     False
